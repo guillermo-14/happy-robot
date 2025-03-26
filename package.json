@@ -5,8 +5,8 @@
   "private": true,
   "scripts": {
     "dev": "bun --watch src/server.ts",
-    "build": "bun --build src/server.ts --out-dir ./dist --target bun",
-    "start": "bun src/server.ts",
+    "build": "tsc",
+    "start": "bun dist/server.js",
     "clean": "rm -rf dist && echo 'Done.'"
   },
   "devDependencies": {
