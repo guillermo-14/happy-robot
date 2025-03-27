@@ -1,14 +1,23 @@
 FROM node:22-alpine
 
-LABEL maintainer="Telefonica Tech BTeam"
+# Establecer directorio de trabajo en un lugar más estándar
+WORKDIR /app
 
-WORKDIR /tmp/happy-robot-api
+# Copiar primero los archivos de configuración para aprovechar la caché de Docker
+COPY package.json pnpm-lock.yaml* ./
 
-COPY . .
-
-RUN  npm install -g pnpm && \
+# Instalar pnpm y dependencias
+RUN npm install -g pnpm && \
     pnpm install
 
+# Copiar el resto del código fuente
+COPY . .
+
+# Compilar la aplicación
 RUN pnpm run build
 
+# Exponer el puerto (ajusta según tu aplicación)
+EXPOSE 8090
+
+# Comando para iniciar la aplicación
 CMD ["pnpm", "run", "start"]
