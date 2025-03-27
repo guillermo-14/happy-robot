@@ -1,4 +1,4 @@
-import type { DocketNumberResponse, DotNumberResponse, FmcsaResponse } from "../types/fmcsa";
+import type { DocketNumberResponse, DotNumberResponse, FmcsaResponse } from "../types/fmcsa.ts";
 
 const { FMCSA_API_WEB_KEY, FMCSA_API_URL } = process.env
 

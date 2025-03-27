@@ -1,14 +1,14 @@
-FROM oven/bun:latest
+FROM node:22-alpine
 
-WORKDIR /app
+LABEL maintainer="Telefonica Tech BTeam"
 
-COPY package*.json ./
-RUN bun install
+WORKDIR /tmp/happy-robot-api
 
 COPY . .
-RUN bun run build
 
-EXPOSE 8090
+RUN  npm install -g pnpm && \
+    pnpm install
 
-# Asegúrate de que la ruta coincida con tu punto de entrada
-CMD ["bun", "dist/server.js"]
+RUN pnpm run build
+
+CMD ["pnpm", "run", "start"]

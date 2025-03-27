@@ -4,6 +4,7 @@ import helmet from 'helmet';
 import type { Request as ExpressRequest, Response, NextFunction } from 'express';
 import router from './routes/index.js';
 import { requestLogger } from './middlewares/request.js';
+import 'dotenv/config'
 
 // Extender el tipo Request para incluir rawBody
 interface Request extends ExpressRequest {

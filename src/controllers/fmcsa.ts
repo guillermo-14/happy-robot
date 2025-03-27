@@ -1,5 +1,5 @@
 import type { Request, Response } from 'express'
-import { checkDocketNumber, checkUsdotNumber } from '../services/fmcsa';
+import { checkDocketNumber, checkUsdotNumber } from '../services/fmcsa.js';
 
 export async function verifyNumber(req: Request, res: Response): Promise<void> {
     console.log('[CT] Verifying number');
