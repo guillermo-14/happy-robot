@@ -1,0 +1,1001 @@
+reference_number|origin|destination|equipment_type|rate|commodity
+REF30615|Fort Worth, TX|San Antonio, TX|Refrigerated|1780|Automotive Parts
+REF61503|Dallas, TX|Columbus, OH|Flatbed|759|Automotive Parts
+REF38927|Houston, TX|San Diego, CA|Refrigerated|1607|Industrial Equipment
+REF89262|Austin, TX|Houston, TX|Refrigerated|1960|Furniture
+REF66406|Indianapolis, IN|Austin, TX|Dry Van|881|Automotive Parts
+REF26959|Phoenix, AZ|Austin, TX|Flatbed|972|Agricultural Products
+REF24094|Chicago, IL|Dallas, TX|Flatbed|944|Automotive Parts
+REF49287|San Antonio, TX|San Diego, CA|Flatbed|619|Furniture
+REF40637|San Jose, CA|Fort Worth, TX|Flatbed|1869|Agricultural Products
+REF89160|Charlotte, NC|Seattle, WA|Dry Van|517|Industrial Equipment
+REF87040|Fort Worth, TX|Indianapolis, IN|Dry Van|1144|Agricultural Products
+REF63288|Columbus, OH|Charlotte, NC|Flatbed|1618|Electronics
+REF78034|New York, NY|San Diego, CA|Dry Van|1586|Industrial Equipment
+REF18033|Indianapolis, IN|Philadelphia, PA|Flatbed|1334|Furniture
+REF42233|New York, NY|Fort Worth, TX|Dry Van|1418|Industrial Equipment
+REF84033|New York, NY|Houston, TX|Dry Van|992|Agricultural Products
+REF53845|Chicago, IL|San Francisco, CA|Dry Van|1329|Agricultural Products
+REF63478|Charlotte, NC|Columbus, OH|Dry Van|820|Agricultural Products
+REF68273|San Diego, CA|Dallas, TX|Refrigerated|1400|Electronics
+REF41092|Jacksonville, FL|Indianapolis, IN|Refrigerated|605|Agricultural Products
+REF78684|Los Angeles, CA|Phoenix, AZ|Refrigerated|1603|Agricultural Products
+REF24142|Jacksonville, FL|Columbus, OH|Dry Van|1158|Industrial Equipment
+REF25291|New York, NY|Denver, CO|Flatbed|1097|Industrial Equipment
+REF67471|Austin, TX|Columbus, OH|Flatbed|1301|Automotive Parts
+REF41637|Washington, DC|Houston, TX|Flatbed|1752|Furniture
+REF97232|Los Angeles, CA|Chicago, IL|Dry Van|1511|Agricultural Products
+REF87149|Washington, DC|San Diego, CA|Refrigerated|1254|Industrial Equipment
+REF89109|Fort Worth, TX|Houston, TX|Flatbed|963|Agricultural Products
+REF53952|New York, NY|Indianapolis, IN|Refrigerated|1311|Automotive Parts
+REF74178|Los Angeles, CA|Indianapolis, IN|Refrigerated|1602|Agricultural Products
+REF14308|Chicago, IL|Houston, TX|Dry Van|1159|Industrial Equipment
+REF37401|San Jose, CA|Seattle, WA|Dry Van|968|Automotive Parts
+REF70668|Indianapolis, IN|Los Angeles, CA|Flatbed|889|Automotive Parts
+REF38634|San Antonio, TX|Austin, TX|Refrigerated|1876|Automotive Parts
+REF62320|San Diego, CA|San Antonio, TX|Dry Van|1735|Electronics
+REF98462|Columbus, OH|Los Angeles, CA|Flatbed|1414|Furniture
+REF36354|Chicago, IL|Houston, TX|Flatbed|1039|Agricultural Products
+REF76542|San Francisco, CA|Chicago, IL|Dry Van|919|Industrial Equipment
+REF14039|Austin, TX|Dallas, TX|Dry Van|826|Industrial Equipment
+REF15658|San Diego, CA|San Jose, CA|Flatbed|1905|Industrial Equipment
+REF35213|Jacksonville, FL|San Francisco, CA|Refrigerated|1601|Electronics
+REF55808|New York, NY|San Antonio, TX|Refrigerated|1442|Automotive Parts
+REF92935|Jacksonville, FL|Seattle, WA|Dry Van|894|Furniture
+REF51025|Jacksonville, FL|Philadelphia, PA|Flatbed|954|Industrial Equipment
+REF12502|Washington, DC|San Francisco, CA|Flatbed|1218|Electronics
+REF56360|Fort Worth, TX|Jacksonville, FL|Refrigerated|959|Furniture
+REF73720|San Jose, CA|Austin, TX|Dry Van|1707|Agricultural Products
+REF64155|Phoenix, AZ|Los Angeles, CA|Refrigerated|927|Electronics
+REF62761|Jacksonville, FL|Columbus, OH|Flatbed|725|Electronics
+REF69204|San Jose, CA|San Diego, CA|Refrigerated|892|Industrial Equipment
+REF22471|Indianapolis, IN|San Antonio, TX|Refrigerated|952|Furniture
+REF23307|San Francisco, CA|San Diego, CA|Flatbed|1552|Electronics
+REF83588|Dallas, TX|San Diego, CA|Flatbed|1473|Industrial Equipment
+REF54509|Washington, DC|San Jose, CA|Refrigerated|1853|Furniture
+REF23962|Charlotte, NC|Jacksonville, FL|Dry Van|1534|Electronics
+REF50118|Houston, TX|Jacksonville, FL|Flatbed|1967|Automotive Parts
+REF30295|New York, NY|Austin, TX|Refrigerated|1813|Automotive Parts
+REF32310|San Diego, CA|Dallas, TX|Refrigerated|1836|Agricultural Products
+REF30500|Jacksonville, FL|Indianapolis, IN|Refrigerated|578|Industrial Equipment
+REF92127|New York, NY|Seattle, WA|Refrigerated|1938|Industrial Equipment
+REF55235|San Francisco, CA|Fort Worth, TX|Flatbed|1533|Furniture
+REF74505|Phoenix, AZ|Philadelphia, PA|Refrigerated|882|Furniture
+REF80473|Dallas, TX|Jacksonville, FL|Refrigerated|731|Furniture
+REF35889|San Diego, CA|Houston, TX|Flatbed|1501|Agricultural Products
+REF29750|New York, NY|San Antonio, TX|Dry Van|849|Agricultural Products
+REF22920|San Diego, CA|San Antonio, TX|Refrigerated|1717|Automotive Parts
+REF65481|Seattle, WA|Fort Worth, TX|Refrigerated|678|Agricultural Products
+REF42642|Chicago, IL|Fort Worth, TX|Flatbed|516|Agricultural Products
+REF60655|Philadelphia, PA|San Diego, CA|Flatbed|865|Automotive Parts
+REF43594|New York, NY|Columbus, OH|Refrigerated|1983|Electronics
+REF48234|San Jose, CA|Columbus, OH|Refrigerated|1422|Industrial Equipment
+REF85654|San Antonio, TX|Fort Worth, TX|Refrigerated|984|Automotive Parts
+REF67491|Austin, TX|New York, NY|Refrigerated|1921|Furniture
+REF26150|Chicago, IL|Philadelphia, PA|Dry Van|1592|Industrial Equipment
+REF69771|Philadelphia, PA|Houston, TX|Dry Van|775|Automotive Parts
+REF90546|San Jose, CA|New York, NY|Dry Van|867|Agricultural Products
+REF54063|New York, NY|Austin, TX|Flatbed|1785|Electronics
+REF74689|Phoenix, AZ|Washington, DC|Dry Van|987|Industrial Equipment
+REF45451|Philadelphia, PA|Chicago, IL|Flatbed|1766|Agricultural Products
+REF54004|Denver, CO|Phoenix, AZ|Flatbed|870|Agricultural Products
+REF40462|Seattle, WA|San Antonio, TX|Flatbed|1853|Electronics
+REF46454|Seattle, WA|Charlotte, NC|Flatbed|1625|Furniture
+REF15664|San Antonio, TX|Dallas, TX|Dry Van|839|Electronics
+REF58903|Austin, TX|New York, NY|Refrigerated|648|Electronics
+REF24161|Los Angeles, CA|San Jose, CA|Flatbed|1044|Furniture
+REF61954|Los Angeles, CA|Charlotte, NC|Flatbed|1113|Furniture
+REF62170|Chicago, IL|Columbus, OH|Dry Van|1534|Agricultural Products
+REF54367|Philadelphia, PA|San Antonio, TX|Refrigerated|1375|Agricultural Products
+REF33144|Seattle, WA|San Francisco, CA|Flatbed|945|Electronics
+REF12510|New York, NY|Fort Worth, TX|Dry Van|828|Agricultural Products
+REF12160|Dallas, TX|San Diego, CA|Refrigerated|1439|Electronics
+REF78679|Philadelphia, PA|New York, NY|Flatbed|1552|Furniture
+REF68261|San Francisco, CA|Indianapolis, IN|Dry Van|683|Agricultural Products
+REF44258|Los Angeles, CA|New York, NY|Flatbed|1427|Electronics
+REF87411|Denver, CO|Dallas, TX|Refrigerated|721|Automotive Parts
+REF40221|Phoenix, AZ|Austin, TX|Dry Van|1067|Electronics
+REF42375|Denver, CO|Charlotte, NC|Flatbed|833|Automotive Parts
+REF86933|Houston, TX|Indianapolis, IN|Refrigerated|758|Industrial Equipment
+REF73764|Dallas, TX|Houston, TX|Dry Van|611|Automotive Parts
+REF48005|Los Angeles, CA|San Francisco, CA|Refrigerated|928|Electronics
+REF98413|San Antonio, TX|Dallas, TX|Flatbed|815|Industrial Equipment
+REF50184|Philadelphia, PA|Charlotte, NC|Refrigerated|1156|Agricultural Products
+REF37273|San Antonio, TX|Denver, CO|Refrigerated|1603|Furniture
+REF35798|Phoenix, AZ|Seattle, WA|Refrigerated|1359|Automotive Parts
+REF25510|Los Angeles, CA|Chicago, IL|Dry Van|1604|Industrial Equipment
+REF16348|Columbus, OH|San Antonio, TX|Dry Van|1580|Electronics
+REF54943|Charlotte, NC|San Francisco, CA|Refrigerated|1917|Furniture
+REF13528|San Diego, CA|Jacksonville, FL|Refrigerated|1507|Furniture
+REF91477|Austin, TX|Jacksonville, FL|Refrigerated|1990|Furniture
+REF48791|Houston, TX|Columbus, OH|Refrigerated|1935|Furniture
+REF53050|Charlotte, NC|San Antonio, TX|Dry Van|1643|Industrial Equipment
+REF70359|San Antonio, TX|San Francisco, CA|Refrigerated|738|Automotive Parts
+REF16781|Indianapolis, IN|Philadelphia, PA|Dry Van|1175|Furniture
+REF97110|Jacksonville, FL|San Diego, CA|Flatbed|1860|Agricultural Products
+REF73228|Columbus, OH|Seattle, WA|Dry Van|560|Industrial Equipment
+REF72448|Charlotte, NC|Jacksonville, FL|Refrigerated|1255|Furniture
+REF33446|Columbus, OH|Houston, TX|Refrigerated|1717|Electronics
+REF63967|Jacksonville, FL|Seattle, WA|Dry Van|1200|Agricultural Products
+REF51233|Denver, CO|Charlotte, NC|Dry Van|550|Agricultural Products
+REF82771|San Diego, CA|Columbus, OH|Flatbed|1148|Agricultural Products
+REF59987|Phoenix, AZ|Houston, TX|Dry Van|760|Agricultural Products
+REF52155|Fort Worth, TX|Indianapolis, IN|Dry Van|1470|Furniture
+REF58880|Phoenix, AZ|Indianapolis, IN|Dry Van|1587|Industrial Equipment
+REF75164|Charlotte, NC|Columbus, OH|Dry Van|1820|Electronics
+REF49518|Dallas, TX|San Francisco, CA|Refrigerated|817|Agricultural Products
+REF56677|San Francisco, CA|Austin, TX|Dry Van|770|Agricultural Products
+REF61737|Indianapolis, IN|Columbus, OH|Dry Van|1698|Furniture
+REF29137|San Antonio, TX|Denver, CO|Dry Van|732|Agricultural Products
+REF43684|Washington, DC|Columbus, OH|Refrigerated|645|Automotive Parts
+REF90204|Houston, TX|New York, NY|Refrigerated|1174|Industrial Equipment
+REF85140|Dallas, TX|San Antonio, TX|Refrigerated|1734|Electronics
+REF49565|Seattle, WA|Washington, DC|Flatbed|1537|Automotive Parts
+REF76323|Los Angeles, CA|Seattle, WA|Dry Van|1892|Furniture
+REF72432|San Jose, CA|New York, NY|Refrigerated|1322|Automotive Parts
+REF48327|San Diego, CA|Seattle, WA|Refrigerated|1325|Electronics
+REF76205|Austin, TX|Denver, CO|Flatbed|1336|Industrial Equipment
+REF30399|Chicago, IL|Seattle, WA|Dry Van|1528|Furniture
+REF72543|Dallas, TX|Chicago, IL|Dry Van|640|Industrial Equipment
+REF30369|Jacksonville, FL|Philadelphia, PA|Refrigerated|1134|Furniture
+REF83695|San Francisco, CA|Phoenix, AZ|Refrigerated|1655|Furniture
+REF63504|Dallas, TX|Fort Worth, TX|Dry Van|887|Industrial Equipment
+REF12355|Fort Worth, TX|San Jose, CA|Flatbed|1473|Industrial Equipment
+REF72190|Los Angeles, CA|Austin, TX|Dry Van|947|Agricultural Products
+REF30175|Austin, TX|Charlotte, NC|Flatbed|703|Industrial Equipment
+REF30428|Dallas, TX|Philadelphia, PA|Dry Van|513|Automotive Parts
+REF38541|Chicago, IL|Austin, TX|Dry Van|1191|Industrial Equipment
+REF90266|Denver, CO|Los Angeles, CA|Flatbed|810|Electronics
+REF57151|New York, NY|Charlotte, NC|Flatbed|1338|Agricultural Products
+REF46018|Seattle, WA|Los Angeles, CA|Refrigerated|1736|Agricultural Products
+REF43887|Indianapolis, IN|New York, NY|Flatbed|1903|Industrial Equipment
+REF18773|Washington, DC|San Francisco, CA|Flatbed|1564|Electronics
+REF12479|Philadelphia, PA|Los Angeles, CA|Dry Van|626|Industrial Equipment
+REF13490|Fort Worth, TX|Los Angeles, CA|Dry Van|689|Industrial Equipment
+REF18137|Chicago, IL|Dallas, TX|Refrigerated|882|Industrial Equipment
+REF32338|Houston, TX|San Diego, CA|Flatbed|669|Furniture
+REF90988|San Diego, CA|Chicago, IL|Dry Van|599|Electronics
+REF69713|San Jose, CA|New York, NY|Flatbed|622|Agricultural Products
+REF58174|Seattle, WA|Dallas, TX|Dry Van|1561|Automotive Parts
+REF51605|Denver, CO|New York, NY|Refrigerated|761|Agricultural Products
+REF81450|Washington, DC|New York, NY|Refrigerated|750|Industrial Equipment
+REF52007|Seattle, WA|Indianapolis, IN|Dry Van|1597|Electronics
+REF17953|Austin, TX|Phoenix, AZ|Refrigerated|1611|Electronics
+REF72511|Chicago, IL|Austin, TX|Dry Van|977|Electronics
+REF62163|Charlotte, NC|Seattle, WA|Refrigerated|1025|Industrial Equipment
+REF57363|Charlotte, NC|Chicago, IL|Refrigerated|1869|Furniture
+REF64871|San Francisco, CA|Los Angeles, CA|Dry Van|585|Automotive Parts
+REF72062|Los Angeles, CA|Washington, DC|Flatbed|1496|Electronics
+REF67278|Los Angeles, CA|Indianapolis, IN|Dry Van|850|Electronics
+REF58483|Washington, DC|San Diego, CA|Dry Van|1280|Furniture
+REF68350|Houston, TX|Phoenix, AZ|Flatbed|1900|Furniture
+REF70948|Houston, TX|San Francisco, CA|Refrigerated|1490|Furniture
+REF44447|Chicago, IL|Washington, DC|Dry Van|577|Agricultural Products
+REF60526|Dallas, TX|Philadelphia, PA|Flatbed|1408|Electronics
+REF55250|Denver, CO|Dallas, TX|Flatbed|1712|Furniture
+REF63804|Seattle, WA|San Jose, CA|Refrigerated|727|Agricultural Products
+REF85902|Seattle, WA|Fort Worth, TX|Refrigerated|1902|Furniture
+REF28842|Dallas, TX|Seattle, WA|Dry Van|1981|Agricultural Products
+REF17693|New York, NY|Seattle, WA|Dry Van|545|Automotive Parts
+REF80458|Washington, DC|Philadelphia, PA|Dry Van|627|Furniture
+REF92010|Charlotte, NC|Jacksonville, FL|Dry Van|576|Furniture
+REF43927|Philadelphia, PA|Denver, CO|Refrigerated|1446|Automotive Parts
+REF25586|New York, NY|Denver, CO|Flatbed|1254|Furniture
+REF16289|Indianapolis, IN|Denver, CO|Dry Van|1875|Automotive Parts
+REF98214|Indianapolis, IN|Los Angeles, CA|Dry Van|786|Agricultural Products
+REF19474|Philadelphia, PA|Fort Worth, TX|Refrigerated|1101|Furniture
+REF52426|Houston, TX|Columbus, OH|Refrigerated|1628|Industrial Equipment
+REF92062|Jacksonville, FL|Houston, TX|Dry Van|1569|Furniture
+REF27154|Los Angeles, CA|San Francisco, CA|Flatbed|1459|Industrial Equipment
+REF55762|Phoenix, AZ|Indianapolis, IN|Flatbed|1160|Furniture
+REF35378|Charlotte, NC|Seattle, WA|Dry Van|1488|Automotive Parts
+REF61995|Seattle, WA|Austin, TX|Flatbed|1222|Industrial Equipment
+REF20242|Fort Worth, TX|Dallas, TX|Refrigerated|1332|Electronics
+REF39762|Washington, DC|Jacksonville, FL|Refrigerated|653|Electronics
+REF29474|Los Angeles, CA|Jacksonville, FL|Dry Van|668|Electronics
+REF49140|Los Angeles, CA|Phoenix, AZ|Dry Van|570|Industrial Equipment
+REF27520|Dallas, TX|Charlotte, NC|Flatbed|1950|Electronics
+REF48687|San Diego, CA|Austin, TX|Refrigerated|837|Furniture
+REF63619|San Jose, CA|San Diego, CA|Dry Van|1071|Industrial Equipment
+REF89502|Columbus, OH|Fort Worth, TX|Refrigerated|1176|Automotive Parts
+REF25457|Columbus, OH|San Antonio, TX|Refrigerated|1252|Agricultural Products
+REF36791|Charlotte, NC|Chicago, IL|Refrigerated|682|Furniture
+REF61745|Denver, CO|New York, NY|Refrigerated|1896|Industrial Equipment
+REF75759|Seattle, WA|Phoenix, AZ|Refrigerated|1751|Agricultural Products
+REF81808|Indianapolis, IN|New York, NY|Flatbed|1203|Furniture
+REF33315|Fort Worth, TX|Chicago, IL|Refrigerated|1101|Furniture
+REF16425|Seattle, WA|Denver, CO|Refrigerated|1047|Electronics
+REF69749|Washington, DC|Denver, CO|Flatbed|1376|Electronics
+REF16982|Phoenix, AZ|Seattle, WA|Flatbed|874|Automotive Parts
+REF32703|Denver, CO|Columbus, OH|Refrigerated|1577|Agricultural Products
+REF60559|Houston, TX|Dallas, TX|Refrigerated|910|Automotive Parts
+REF74829|Chicago, IL|New York, NY|Flatbed|1470|Industrial Equipment
+REF81245|Denver, CO|Charlotte, NC|Dry Van|1160|Electronics
+REF75103|Austin, TX|Phoenix, AZ|Refrigerated|1638|Furniture
+REF26626|San Francisco, CA|Fort Worth, TX|Refrigerated|1922|Industrial Equipment
+REF78789|Seattle, WA|Philadelphia, PA|Dry Van|1599|Agricultural Products
+REF76812|Columbus, OH|Washington, DC|Refrigerated|690|Electronics
+REF88121|San Diego, CA|San Francisco, CA|Refrigerated|1728|Industrial Equipment
+REF56815|Los Angeles, CA|Seattle, WA|Flatbed|1720|Agricultural Products
+REF17954|Seattle, WA|San Jose, CA|Flatbed|1736|Automotive Parts
+REF41239|San Francisco, CA|Fort Worth, TX|Refrigerated|1772|Furniture
+REF16417|San Francisco, CA|San Diego, CA|Flatbed|1234|Industrial Equipment
+REF27213|Houston, TX|Los Angeles, CA|Refrigerated|690|Industrial Equipment
+REF93329|Indianapolis, IN|Los Angeles, CA|Flatbed|608|Agricultural Products
+REF46285|Austin, TX|Indianapolis, IN|Refrigerated|1593|Agricultural Products
+REF95071|Philadelphia, PA|Indianapolis, IN|Dry Van|1410|Agricultural Products
+REF32199|Fort Worth, TX|Los Angeles, CA|Dry Van|828|Electronics
+REF76635|Fort Worth, TX|San Diego, CA|Dry Van|1339|Agricultural Products
+REF15088|Fort Worth, TX|San Antonio, TX|Flatbed|711|Agricultural Products
+REF32209|Jacksonville, FL|San Diego, CA|Flatbed|1970|Automotive Parts
+REF53106|New York, NY|Austin, TX|Flatbed|807|Electronics
+REF22410|Los Angeles, CA|Indianapolis, IN|Flatbed|1689|Agricultural Products
+REF23787|San Diego, CA|Phoenix, AZ|Refrigerated|1929|Furniture
+REF11578|Houston, TX|Fort Worth, TX|Flatbed|1213|Automotive Parts
+REF44967|New York, NY|Chicago, IL|Dry Van|1153|Automotive Parts
+REF82892|Indianapolis, IN|Seattle, WA|Refrigerated|976|Furniture
+REF90853|Indianapolis, IN|Columbus, OH|Refrigerated|1552|Agricultural Products
+REF81937|San Diego, CA|San Jose, CA|Flatbed|1425|Electronics
+REF82329|Dallas, TX|San Antonio, TX|Flatbed|1503|Automotive Parts
+REF99968|Houston, TX|San Jose, CA|Flatbed|1730|Agricultural Products
+REF71880|Dallas, TX|New York, NY|Refrigerated|1265|Furniture
+REF40404|San Francisco, CA|New York, NY|Dry Van|929|Electronics
+REF69550|Indianapolis, IN|Fort Worth, TX|Dry Van|1141|Automotive Parts
+REF97908|Chicago, IL|Denver, CO|Dry Van|1715|Automotive Parts
+REF80011|Dallas, TX|Chicago, IL|Dry Van|1887|Automotive Parts
+REF98949|Columbus, OH|Phoenix, AZ|Refrigerated|1969|Industrial Equipment
+REF40046|Jacksonville, FL|Philadelphia, PA|Dry Van|1634|Furniture
+REF85462|Dallas, TX|Chicago, IL|Dry Van|1984|Furniture
+REF58754|Fort Worth, TX|Austin, TX|Refrigerated|1676|Electronics
+REF53855|San Francisco, CA|Dallas, TX|Flatbed|1608|Agricultural Products
+REF52523|Indianapolis, IN|Jacksonville, FL|Refrigerated|1993|Industrial Equipment
+REF20495|New York, NY|Philadelphia, PA|Flatbed|1591|Electronics
+REF32154|Washington, DC|Jacksonville, FL|Dry Van|1638|Furniture
+REF48189|Philadelphia, PA|Charlotte, NC|Dry Van|844|Furniture
+REF12298|Indianapolis, IN|Seattle, WA|Refrigerated|855|Industrial Equipment
+REF22208|New York, NY|Denver, CO|Dry Van|660|Furniture
+REF24209|Chicago, IL|Indianapolis, IN|Flatbed|599|Electronics
+REF84698|Fort Worth, TX|San Antonio, TX|Refrigerated|767|Furniture
+REF90946|Jacksonville, FL|Chicago, IL|Dry Van|685|Automotive Parts
+REF18369|Dallas, TX|San Jose, CA|Refrigerated|1560|Agricultural Products
+REF50853|Columbus, OH|San Jose, CA|Refrigerated|1425|Industrial Equipment
+REF74540|Jacksonville, FL|Los Angeles, CA|Dry Van|1382|Automotive Parts
+REF12474|Denver, CO|Columbus, OH|Flatbed|642|Automotive Parts
+REF66165|Fort Worth, TX|Phoenix, AZ|Dry Van|759|Electronics
+REF92612|Phoenix, AZ|Chicago, IL|Flatbed|1994|Furniture
+REF30773|Los Angeles, CA|Jacksonville, FL|Dry Van|1894|Automotive Parts
+REF29266|Los Angeles, CA|Chicago, IL|Refrigerated|1096|Industrial Equipment
+REF60452|Fort Worth, TX|San Diego, CA|Dry Van|611|Industrial Equipment
+REF82307|Denver, CO|San Diego, CA|Flatbed|1937|Electronics
+REF36235|Phoenix, AZ|Houston, TX|Refrigerated|1716|Agricultural Products
+REF58103|Chicago, IL|Washington, DC|Refrigerated|1089|Automotive Parts
+REF51971|Indianapolis, IN|Washington, DC|Flatbed|957|Furniture
+REF95835|San Diego, CA|Phoenix, AZ|Dry Van|1157|Electronics
+REF62382|Columbus, OH|Washington, DC|Dry Van|1904|Automotive Parts
+REF68913|Phoenix, AZ|Indianapolis, IN|Flatbed|1543|Electronics
+REF87747|Seattle, WA|Dallas, TX|Refrigerated|1229|Industrial Equipment
+REF70955|Indianapolis, IN|Los Angeles, CA|Flatbed|1786|Industrial Equipment
+REF62676|Fort Worth, TX|Columbus, OH|Dry Van|902|Electronics
+REF58914|Los Angeles, CA|Austin, TX|Dry Van|1108|Furniture
+REF60019|Fort Worth, TX|San Francisco, CA|Dry Van|832|Industrial Equipment
+REF89820|Philadelphia, PA|Fort Worth, TX|Flatbed|640|Automotive Parts
+REF44304|Dallas, TX|San Jose, CA|Refrigerated|706|Electronics
+REF20135|San Antonio, TX|Seattle, WA|Dry Van|577|Industrial Equipment
+REF59562|Columbus, OH|Indianapolis, IN|Refrigerated|794|Electronics
+REF66107|San Antonio, TX|Fort Worth, TX|Refrigerated|987|Agricultural Products
+REF70058|Fort Worth, TX|Denver, CO|Dry Van|814|Agricultural Products
+REF42900|San Jose, CA|Dallas, TX|Flatbed|1092|Agricultural Products
+REF24088|Chicago, IL|Philadelphia, PA|Refrigerated|1881|Electronics
+REF28297|Charlotte, NC|Dallas, TX|Dry Van|1074|Automotive Parts
+REF60970|Columbus, OH|San Diego, CA|Refrigerated|1203|Electronics
+REF15328|Seattle, WA|Indianapolis, IN|Flatbed|1652|Electronics
+REF34688|Columbus, OH|Denver, CO|Refrigerated|1901|Agricultural Products
+REF14167|San Antonio, TX|San Jose, CA|Dry Van|1210|Agricultural Products
+REF53475|Jacksonville, FL|San Diego, CA|Refrigerated|1271|Industrial Equipment
+REF45049|San Antonio, TX|Washington, DC|Refrigerated|1923|Electronics
+REF27378|Philadelphia, PA|Houston, TX|Refrigerated|910|Agricultural Products
+REF88123|Charlotte, NC|Phoenix, AZ|Flatbed|1445|Electronics
+REF93768|New York, NY|Jacksonville, FL|Refrigerated|1561|Industrial Equipment
+REF85174|Houston, TX|Indianapolis, IN|Dry Van|1196|Automotive Parts
+REF47955|San Jose, CA|Phoenix, AZ|Flatbed|1107|Industrial Equipment
+REF29876|San Jose, CA|Austin, TX|Refrigerated|691|Furniture
+REF86461|Indianapolis, IN|Fort Worth, TX|Refrigerated|1831|Industrial Equipment
+REF39269|Denver, CO|Philadelphia, PA|Refrigerated|1530|Automotive Parts
+REF58514|Dallas, TX|Fort Worth, TX|Flatbed|1403|Industrial Equipment
+REF86880|San Jose, CA|Jacksonville, FL|Refrigerated|1859|Electronics
+REF85802|Charlotte, NC|Columbus, OH|Dry Van|1782|Automotive Parts
+REF71510|San Antonio, TX|Fort Worth, TX|Refrigerated|1953|Furniture
+REF34204|San Antonio, TX|Austin, TX|Flatbed|595|Electronics
+REF13345|Phoenix, AZ|New York, NY|Refrigerated|1138|Electronics
+REF60237|Seattle, WA|Dallas, TX|Refrigerated|1511|Electronics
+REF48559|Columbus, OH|San Francisco, CA|Dry Van|921|Automotive Parts
+REF67377|Austin, TX|Indianapolis, IN|Refrigerated|566|Furniture
+REF34125|San Jose, CA|Fort Worth, TX|Flatbed|1732|Industrial Equipment
+REF36617|San Antonio, TX|Philadelphia, PA|Refrigerated|1442|Electronics
+REF22838|Houston, TX|Fort Worth, TX|Dry Van|671|Electronics
+REF34072|Houston, TX|San Antonio, TX|Flatbed|1356|Industrial Equipment
+REF48198|Los Angeles, CA|San Antonio, TX|Dry Van|1465|Agricultural Products
+REF43125|Denver, CO|Philadelphia, PA|Dry Van|1243|Industrial Equipment
+REF64123|Charlotte, NC|San Francisco, CA|Flatbed|1778|Electronics
+REF53362|Charlotte, NC|Indianapolis, IN|Dry Van|1379|Industrial Equipment
+REF47464|Charlotte, NC|Austin, TX|Flatbed|1226|Agricultural Products
+REF42679|Columbus, OH|Phoenix, AZ|Dry Van|1755|Automotive Parts
+REF88082|Washington, DC|New York, NY|Dry Van|535|Agricultural Products
+REF67632|Austin, TX|Houston, TX|Refrigerated|1257|Industrial Equipment
+REF55441|New York, NY|San Antonio, TX|Dry Van|1213|Agricultural Products
+REF36323|Fort Worth, TX|Seattle, WA|Flatbed|740|Automotive Parts
+REF36082|Indianapolis, IN|Seattle, WA|Dry Van|1959|Industrial Equipment
+REF86941|Chicago, IL|Philadelphia, PA|Refrigerated|1346|Industrial Equipment
+REF98601|Chicago, IL|San Francisco, CA|Refrigerated|982|Automotive Parts
+REF95950|Washington, DC|San Jose, CA|Flatbed|570|Industrial Equipment
+REF57706|San Antonio, TX|Jacksonville, FL|Flatbed|1131|Industrial Equipment
+REF97919|Charlotte, NC|Denver, CO|Refrigerated|1602|Electronics
+REF64194|Jacksonville, FL|Denver, CO|Flatbed|625|Agricultural Products
+REF86917|Fort Worth, TX|Jacksonville, FL|Flatbed|814|Furniture
+REF54659|San Diego, CA|Indianapolis, IN|Refrigerated|1047|Electronics
+REF57117|Phoenix, AZ|Seattle, WA|Refrigerated|980|Automotive Parts
+REF58450|Houston, TX|Phoenix, AZ|Flatbed|602|Industrial Equipment
+REF44983|San Jose, CA|Washington, DC|Refrigerated|1229|Agricultural Products
+REF30626|Austin, TX|Houston, TX|Flatbed|928|Industrial Equipment
+REF96517|Columbus, OH|Fort Worth, TX|Dry Van|1500|Furniture
+REF13478|Dallas, TX|Washington, DC|Refrigerated|894|Electronics
+REF19126|Los Angeles, CA|Jacksonville, FL|Refrigerated|1755|Automotive Parts
+REF60315|Seattle, WA|Dallas, TX|Refrigerated|1580|Industrial Equipment
+REF45491|Indianapolis, IN|Denver, CO|Flatbed|1991|Industrial Equipment
+REF81630|Austin, TX|New York, NY|Refrigerated|912|Electronics
+REF75487|Fort Worth, TX|Phoenix, AZ|Dry Van|785|Electronics
+REF77396|Austin, TX|Chicago, IL|Refrigerated|985|Agricultural Products
+REF33494|Austin, TX|San Antonio, TX|Refrigerated|1707|Agricultural Products
+REF13090|Phoenix, AZ|Philadelphia, PA|Dry Van|1166|Automotive Parts
+REF26684|San Diego, CA|Charlotte, NC|Refrigerated|544|Automotive Parts
+REF40957|San Diego, CA|Seattle, WA|Dry Van|502|Electronics
+REF55000|Fort Worth, TX|Los Angeles, CA|Flatbed|1084|Automotive Parts
+REF73488|San Antonio, TX|Phoenix, AZ|Flatbed|1504|Furniture
+REF58467|San Antonio, TX|Seattle, WA|Refrigerated|1394|Agricultural Products
+REF75506|Austin, TX|Seattle, WA|Dry Van|798|Industrial Equipment
+REF51372|Fort Worth, TX|Columbus, OH|Refrigerated|1303|Electronics
+REF66157|Columbus, OH|Los Angeles, CA|Dry Van|1527|Furniture
+REF28190|San Francisco, CA|Charlotte, NC|Dry Van|1986|Agricultural Products
+REF11911|Los Angeles, CA|Charlotte, NC|Refrigerated|1667|Industrial Equipment
+REF34449|Denver, CO|Philadelphia, PA|Flatbed|1583|Electronics
+REF18960|San Diego, CA|San Jose, CA|Dry Van|807|Industrial Equipment
+REF59762|Chicago, IL|Austin, TX|Dry Van|854|Electronics
+REF46907|Columbus, OH|Phoenix, AZ|Flatbed|1346|Automotive Parts
+REF86245|Jacksonville, FL|Chicago, IL|Flatbed|935|Agricultural Products
+REF21036|Chicago, IL|San Francisco, CA|Dry Van|754|Furniture
+REF39105|Seattle, WA|San Diego, CA|Flatbed|673|Agricultural Products
+REF25440|Washington, DC|San Diego, CA|Flatbed|1971|Agricultural Products
+REF29171|Houston, TX|Fort Worth, TX|Dry Van|1794|Agricultural Products
+REF86901|Seattle, WA|Charlotte, NC|Dry Van|1515|Electronics
+REF17671|San Francisco, CA|Los Angeles, CA|Flatbed|748|Furniture
+REF40009|Philadelphia, PA|San Francisco, CA|Refrigerated|1822|Agricultural Products
+REF11688|Washington, DC|Indianapolis, IN|Dry Van|945|Industrial Equipment
+REF17784|Indianapolis, IN|Dallas, TX|Dry Van|1010|Industrial Equipment
+REF51381|Philadelphia, PA|Fort Worth, TX|Flatbed|928|Furniture
+REF85137|Jacksonville, FL|Charlotte, NC|Flatbed|1075|Electronics
+REF12457|Austin, TX|Fort Worth, TX|Dry Van|894|Electronics
+REF27262|Jacksonville, FL|Indianapolis, IN|Flatbed|1161|Agricultural Products
+REF62672|Dallas, TX|Denver, CO|Refrigerated|1906|Furniture
+REF11674|Washington, DC|Philadelphia, PA|Flatbed|891|Agricultural Products
+REF87935|San Antonio, TX|Houston, TX|Dry Van|861|Furniture
+REF95073|Phoenix, AZ|San Francisco, CA|Refrigerated|1788|Automotive Parts
+REF34773|Seattle, WA|Philadelphia, PA|Dry Van|925|Industrial Equipment
+REF27502|Phoenix, AZ|San Francisco, CA|Dry Van|860|Furniture
+REF19221|San Diego, CA|San Francisco, CA|Flatbed|1251|Automotive Parts
+REF82181|Philadelphia, PA|New York, NY|Dry Van|1700|Agricultural Products
+REF10296|Chicago, IL|New York, NY|Dry Van|1110|Agricultural Products
+REF71139|San Antonio, TX|San Jose, CA|Flatbed|1242|Agricultural Products
+REF20315|San Antonio, TX|Fort Worth, TX|Refrigerated|827|Agricultural Products
+REF86898|Indianapolis, IN|Los Angeles, CA|Refrigerated|711|Automotive Parts
+REF32311|San Francisco, CA|Charlotte, NC|Dry Van|937|Automotive Parts
+REF73095|Chicago, IL|New York, NY|Refrigerated|785|Electronics
+REF89912|Houston, TX|Los Angeles, CA|Flatbed|1045|Agricultural Products
+REF95056|Chicago, IL|Phoenix, AZ|Dry Van|1631|Automotive Parts
+REF45094|Philadelphia, PA|Austin, TX|Refrigerated|1545|Industrial Equipment
+REF51392|Phoenix, AZ|Austin, TX|Dry Van|1629|Agricultural Products
+REF65617|Charlotte, NC|San Jose, CA|Dry Van|853|Furniture
+REF65451|Fort Worth, TX|Columbus, OH|Dry Van|1138|Agricultural Products
+REF26586|Fort Worth, TX|San Francisco, CA|Refrigerated|640|Agricultural Products
+REF86617|Indianapolis, IN|Seattle, WA|Dry Van|1783|Industrial Equipment
+REF53830|Houston, TX|Washington, DC|Flatbed|1793|Agricultural Products
+REF89207|Philadelphia, PA|Austin, TX|Dry Van|1564|Automotive Parts
+REF20921|Houston, TX|Phoenix, AZ|Flatbed|1549|Electronics
+REF88597|Phoenix, AZ|Seattle, WA|Flatbed|1740|Electronics
+REF64306|Indianapolis, IN|Chicago, IL|Flatbed|1351|Industrial Equipment
+REF37388|Houston, TX|Washington, DC|Refrigerated|1226|Furniture
+REF30151|Phoenix, AZ|Charlotte, NC|Dry Van|1715|Industrial Equipment
+REF77836|San Diego, CA|Charlotte, NC|Flatbed|1982|Electronics
+REF82795|Philadelphia, PA|Washington, DC|Flatbed|1274|Agricultural Products
+REF27443|Houston, TX|San Antonio, TX|Flatbed|523|Electronics
+REF64648|Chicago, IL|Dallas, TX|Flatbed|570|Agricultural Products
+REF36413|Phoenix, AZ|Washington, DC|Refrigerated|1672|Agricultural Products
+REF14339|Austin, TX|San Diego, CA|Dry Van|1370|Agricultural Products
+REF13031|Phoenix, AZ|San Diego, CA|Flatbed|561|Industrial Equipment
+REF78944|Columbus, OH|Phoenix, AZ|Flatbed|781|Automotive Parts
+REF98958|San Diego, CA|Los Angeles, CA|Flatbed|645|Industrial Equipment
+REF11039|Houston, TX|Washington, DC|Flatbed|1823|Electronics
+REF72437|Indianapolis, IN|San Diego, CA|Dry Van|1628|Furniture
+REF19796|Dallas, TX|San Francisco, CA|Dry Van|704|Industrial Equipment
+REF11520|San Francisco, CA|Indianapolis, IN|Flatbed|1171|Furniture
+REF18367|Chicago, IL|Denver, CO|Refrigerated|1728|Industrial Equipment
+REF51634|Indianapolis, IN|Los Angeles, CA|Refrigerated|1843|Industrial Equipment
+REF44256|Indianapolis, IN|Chicago, IL|Refrigerated|1181|Agricultural Products
+REF42056|Washington, DC|Seattle, WA|Flatbed|607|Automotive Parts
+REF40115|Houston, TX|San Antonio, TX|Refrigerated|563|Furniture
+REF36978|Los Angeles, CA|Indianapolis, IN|Flatbed|1452|Agricultural Products
+REF18063|Columbus, OH|Houston, TX|Refrigerated|999|Automotive Parts
+REF54338|Dallas, TX|Los Angeles, CA|Flatbed|1676|Automotive Parts
+REF30438|Denver, CO|Houston, TX|Flatbed|891|Agricultural Products
+REF10410|Jacksonville, FL|Chicago, IL|Flatbed|952|Electronics
+REF93030|Los Angeles, CA|Chicago, IL|Flatbed|1708|Industrial Equipment
+REF86459|Seattle, WA|San Francisco, CA|Dry Van|735|Electronics
+REF60012|Dallas, TX|Houston, TX|Refrigerated|671|Furniture
+REF96252|Dallas, TX|Fort Worth, TX|Flatbed|727|Electronics
+REF20686|New York, NY|Indianapolis, IN|Dry Van|1693|Furniture
+REF39468|Houston, TX|Austin, TX|Flatbed|1155|Automotive Parts
+REF12029|Indianapolis, IN|San Diego, CA|Dry Van|1631|Automotive Parts
+REF28688|Austin, TX|Columbus, OH|Flatbed|1152|Automotive Parts
+REF56241|Charlotte, NC|Seattle, WA|Refrigerated|1079|Agricultural Products
+REF12335|Jacksonville, FL|Seattle, WA|Refrigerated|724|Industrial Equipment
+REF53469|Indianapolis, IN|Fort Worth, TX|Flatbed|1581|Automotive Parts
+REF69651|Denver, CO|Seattle, WA|Flatbed|1342|Electronics
+REF74597|Jacksonville, FL|San Jose, CA|Flatbed|1451|Furniture
+REF16963|Philadelphia, PA|Indianapolis, IN|Refrigerated|1047|Electronics
+REF23296|Dallas, TX|Fort Worth, TX|Dry Van|1778|Agricultural Products
+REF99556|New York, NY|Columbus, OH|Refrigerated|1199|Agricultural Products
+REF73071|Austin, TX|Seattle, WA|Dry Van|1791|Electronics
+REF81960|Charlotte, NC|San Diego, CA|Dry Van|1989|Electronics
+REF51086|Fort Worth, TX|Houston, TX|Flatbed|1224|Furniture
+REF66290|Houston, TX|Charlotte, NC|Flatbed|1400|Furniture
+REF46720|San Francisco, CA|New York, NY|Dry Van|1994|Electronics
+REF72407|San Diego, CA|Los Angeles, CA|Refrigerated|668|Industrial Equipment
+REF97825|Austin, TX|Washington, DC|Flatbed|784|Industrial Equipment
+REF83000|Indianapolis, IN|Fort Worth, TX|Dry Van|1075|Agricultural Products
+REF94089|Phoenix, AZ|San Jose, CA|Refrigerated|959|Electronics
+REF86460|Houston, TX|Chicago, IL|Flatbed|1970|Automotive Parts
+REF94816|San Antonio, TX|Denver, CO|Flatbed|641|Agricultural Products
+REF30628|Los Angeles, CA|San Francisco, CA|Dry Van|1616|Electronics
+REF17851|Chicago, IL|Jacksonville, FL|Flatbed|1962|Furniture
+REF56570|San Antonio, TX|Denver, CO|Flatbed|520|Industrial Equipment
+REF98122|San Diego, CA|Denver, CO|Refrigerated|1263|Electronics
+REF74755|Dallas, TX|Washington, DC|Refrigerated|1813|Agricultural Products
+REF20904|Fort Worth, TX|San Antonio, TX|Flatbed|1886|Agricultural Products
+REF81342|Indianapolis, IN|New York, NY|Refrigerated|964|Automotive Parts
+REF84156|Seattle, WA|Philadelphia, PA|Flatbed|1278|Agricultural Products
+REF48741|Los Angeles, CA|San Diego, CA|Refrigerated|848|Automotive Parts
+REF65498|Denver, CO|Philadelphia, PA|Dry Van|502|Industrial Equipment
+REF26657|San Antonio, TX|New York, NY|Dry Van|1478|Automotive Parts
+REF35006|Phoenix, AZ|Dallas, TX|Dry Van|976|Electronics
+REF22411|Denver, CO|Washington, DC|Refrigerated|1571|Industrial Equipment
+REF55213|Austin, TX|Denver, CO|Flatbed|1590|Agricultural Products
+REF69348|New York, NY|Charlotte, NC|Refrigerated|1010|Electronics
+REF84412|Chicago, IL|New York, NY|Refrigerated|1981|Agricultural Products
+REF17731|Jacksonville, FL|Fort Worth, TX|Flatbed|1192|Automotive Parts
+REF60173|Phoenix, AZ|Austin, TX|Refrigerated|1514|Electronics
+REF53203|Houston, TX|Philadelphia, PA|Dry Van|678|Electronics
+REF39292|San Antonio, TX|New York, NY|Dry Van|1986|Agricultural Products
+REF24782|San Antonio, TX|Washington, DC|Dry Van|798|Automotive Parts
+REF53249|Dallas, TX|New York, NY|Dry Van|1327|Automotive Parts
+REF37082|Phoenix, AZ|Houston, TX|Dry Van|578|Industrial Equipment
+REF72741|Jacksonville, FL|San Jose, CA|Flatbed|695|Automotive Parts
+REF24290|Austin, TX|Charlotte, NC|Flatbed|1975|Industrial Equipment
+REF23783|Denver, CO|Indianapolis, IN|Flatbed|1766|Industrial Equipment
+REF58935|San Diego, CA|Phoenix, AZ|Dry Van|1780|Industrial Equipment
+REF15881|San Francisco, CA|Phoenix, AZ|Flatbed|1573|Agricultural Products
+REF45141|Columbus, OH|Washington, DC|Dry Van|1988|Furniture
+REF84132|Phoenix, AZ|Houston, TX|Dry Van|798|Agricultural Products
+REF87785|Charlotte, NC|San Diego, CA|Refrigerated|1625|Automotive Parts
+REF45346|Los Angeles, CA|Phoenix, AZ|Dry Van|1651|Electronics
+REF17905|Chicago, IL|Columbus, OH|Dry Van|1413|Industrial Equipment
+REF39814|Indianapolis, IN|Charlotte, NC|Dry Van|1223|Furniture
+REF54845|Charlotte, NC|San Diego, CA|Dry Van|1117|Electronics
+REF71890|New York, NY|Fort Worth, TX|Flatbed|1631|Industrial Equipment
+REF57704|Chicago, IL|New York, NY|Flatbed|996|Electronics
+REF53651|Chicago, IL|Jacksonville, FL|Flatbed|1299|Electronics
+REF46061|Houston, TX|Austin, TX|Refrigerated|793|Electronics
+REF78843|Denver, CO|San Francisco, CA|Flatbed|1206|Electronics
+REF16621|San Antonio, TX|Los Angeles, CA|Dry Van|1161|Furniture
+REF88041|Jacksonville, FL|Seattle, WA|Refrigerated|1058|Industrial Equipment
+REF65528|Phoenix, AZ|New York, NY|Dry Van|945|Furniture
+REF15960|New York, NY|Columbus, OH|Refrigerated|867|Furniture
+REF36309|Austin, TX|San Antonio, TX|Refrigerated|858|Agricultural Products
+REF25689|Columbus, OH|Houston, TX|Dry Van|1732|Automotive Parts
+REF23343|Philadelphia, PA|San Francisco, CA|Flatbed|1579|Industrial Equipment
+REF51744|New York, NY|Fort Worth, TX|Flatbed|844|Agricultural Products
+REF66488|Dallas, TX|Chicago, IL|Flatbed|895|Electronics
+REF29921|Houston, TX|Columbus, OH|Flatbed|872|Furniture
+REF67608|Indianapolis, IN|Los Angeles, CA|Dry Van|1612|Industrial Equipment
+REF73916|Washington, DC|Phoenix, AZ|Refrigerated|1892|Industrial Equipment
+REF72791|Seattle, WA|San Francisco, CA|Refrigerated|1990|Agricultural Products
+REF21128|Fort Worth, TX|San Antonio, TX|Flatbed|1500|Industrial Equipment
+REF85302|Charlotte, NC|Houston, TX|Dry Van|1603|Furniture
+REF60612|Los Angeles, CA|San Francisco, CA|Flatbed|1681|Electronics
+REF35331|Fort Worth, TX|New York, NY|Refrigerated|1033|Furniture
+REF56165|San Diego, CA|Jacksonville, FL|Dry Van|754|Industrial Equipment
+REF91995|San Jose, CA|Jacksonville, FL|Refrigerated|834|Electronics
+REF33965|New York, NY|Jacksonville, FL|Refrigerated|1878|Industrial Equipment
+REF84602|San Antonio, TX|San Diego, CA|Flatbed|1683|Automotive Parts
+REF44055|Indianapolis, IN|Denver, CO|Dry Van|681|Agricultural Products
+REF66464|Fort Worth, TX|Houston, TX|Dry Van|1688|Industrial Equipment
+REF50532|Indianapolis, IN|Jacksonville, FL|Flatbed|1681|Automotive Parts
+REF58711|Houston, TX|New York, NY|Flatbed|958|Automotive Parts
+REF91102|Fort Worth, TX|Jacksonville, FL|Refrigerated|712|Electronics
+REF94314|Indianapolis, IN|Seattle, WA|Dry Van|579|Agricultural Products
+REF83032|Indianapolis, IN|San Jose, CA|Refrigerated|1162|Agricultural Products
+REF41333|Seattle, WA|Denver, CO|Dry Van|1600|Industrial Equipment
+REF60479|San Jose, CA|Chicago, IL|Flatbed|715|Furniture
+REF38783|Jacksonville, FL|Indianapolis, IN|Flatbed|1914|Automotive Parts
+REF32675|Dallas, TX|Los Angeles, CA|Dry Van|694|Industrial Equipment
+REF59769|San Diego, CA|Seattle, WA|Flatbed|889|Electronics
+REF95042|Philadelphia, PA|Phoenix, AZ|Flatbed|598|Furniture
+REF23761|Indianapolis, IN|Charlotte, NC|Dry Van|576|Industrial Equipment
+REF22223|Fort Worth, TX|San Jose, CA|Flatbed|1112|Furniture
+REF96282|Charlotte, NC|Los Angeles, CA|Refrigerated|1757|Industrial Equipment
+REF79133|Seattle, WA|Charlotte, NC|Dry Van|1396|Electronics
+REF88078|Dallas, TX|San Francisco, CA|Flatbed|1820|Automotive Parts
+REF59726|Phoenix, AZ|Fort Worth, TX|Dry Van|931|Industrial Equipment
+REF83985|San Diego, CA|Seattle, WA|Refrigerated|1789|Industrial Equipment
+REF39593|Fort Worth, TX|Indianapolis, IN|Flatbed|1732|Automotive Parts
+REF93212|Austin, TX|Jacksonville, FL|Dry Van|1104|Furniture
+REF33823|New York, NY|San Diego, CA|Refrigerated|1636|Furniture
+REF96033|Austin, TX|Fort Worth, TX|Flatbed|871|Agricultural Products
+REF58555|Los Angeles, CA|Seattle, WA|Refrigerated|1481|Industrial Equipment
+REF73356|Fort Worth, TX|New York, NY|Refrigerated|1849|Agricultural Products
+REF43398|Philadelphia, PA|San Jose, CA|Dry Van|1954|Agricultural Products
+REF79539|Washington, DC|San Antonio, TX|Dry Van|1358|Electronics
+REF49425|Chicago, IL|Philadelphia, PA|Dry Van|1536|Agricultural Products
+REF98282|Dallas, TX|Washington, DC|Flatbed|1291|Automotive Parts
+REF42578|San Antonio, TX|Indianapolis, IN|Flatbed|1427|Automotive Parts
+REF29341|Seattle, WA|Jacksonville, FL|Flatbed|795|Automotive Parts
+REF94481|Philadelphia, PA|Chicago, IL|Dry Van|1263|Electronics
+REF52683|San Jose, CA|Charlotte, NC|Flatbed|1380|Electronics
+REF43083|Austin, TX|Columbus, OH|Refrigerated|818|Electronics
+REF84068|Philadelphia, PA|Charlotte, NC|Refrigerated|1761|Agricultural Products
+REF72799|San Francisco, CA|San Jose, CA|Flatbed|600|Furniture
+REF28834|Los Angeles, CA|Philadelphia, PA|Refrigerated|1905|Agricultural Products
+REF81379|Chicago, IL|San Francisco, CA|Flatbed|628|Automotive Parts
+REF87062|New York, NY|Charlotte, NC|Refrigerated|1873|Industrial Equipment
+REF72096|Columbus, OH|San Antonio, TX|Flatbed|954|Automotive Parts
+REF15848|Houston, TX|Columbus, OH|Refrigerated|711|Industrial Equipment
+REF93368|Los Angeles, CA|Chicago, IL|Dry Van|1081|Electronics
+REF46332|Seattle, WA|Chicago, IL|Dry Van|515|Agricultural Products
+REF62180|San Antonio, TX|Seattle, WA|Dry Van|1333|Furniture
+REF81161|Houston, TX|San Jose, CA|Refrigerated|1038|Furniture
+REF62607|New York, NY|San Francisco, CA|Refrigerated|1160|Furniture
+REF99910|Indianapolis, IN|Fort Worth, TX|Flatbed|1960|Agricultural Products
+REF54592|Seattle, WA|Denver, CO|Flatbed|1570|Agricultural Products
+REF97562|New York, NY|Fort Worth, TX|Dry Van|1227|Industrial Equipment
+REF53311|San Antonio, TX|Fort Worth, TX|Flatbed|1393|Industrial Equipment
+REF78097|Philadelphia, PA|Denver, CO|Refrigerated|1564|Automotive Parts
+REF83198|Phoenix, AZ|Chicago, IL|Refrigerated|1870|Industrial Equipment
+REF96637|Columbus, OH|Jacksonville, FL|Dry Van|1044|Automotive Parts
+REF61481|San Francisco, CA|Philadelphia, PA|Flatbed|1629|Furniture
+REF64468|Washington, DC|Austin, TX|Dry Van|1721|Agricultural Products
+REF29716|San Francisco, CA|San Diego, CA|Refrigerated|631|Automotive Parts
+REF81745|Indianapolis, IN|Columbus, OH|Dry Van|1728|Industrial Equipment
+REF21995|Dallas, TX|Denver, CO|Flatbed|1002|Automotive Parts
+REF35809|Columbus, OH|San Jose, CA|Flatbed|1903|Industrial Equipment
+REF80739|San Diego, CA|Chicago, IL|Refrigerated|1373|Industrial Equipment
+REF39534|Seattle, WA|Houston, TX|Refrigerated|1016|Furniture
+REF54779|Houston, TX|San Francisco, CA|Flatbed|1629|Automotive Parts
+REF11851|Columbus, OH|New York, NY|Flatbed|717|Agricultural Products
+REF98912|Jacksonville, FL|Houston, TX|Dry Van|1553|Industrial Equipment
+REF97252|Philadelphia, PA|San Jose, CA|Refrigerated|853|Electronics
+REF57798|Los Angeles, CA|San Jose, CA|Flatbed|784|Agricultural Products
+REF16197|San Jose, CA|Indianapolis, IN|Flatbed|1731|Furniture
+REF89082|New York, NY|San Francisco, CA|Dry Van|822|Industrial Equipment
+REF12421|Austin, TX|Houston, TX|Flatbed|1950|Electronics
+REF87458|Houston, TX|Phoenix, AZ|Flatbed|1717|Furniture
+REF31132|Jacksonville, FL|San Jose, CA|Dry Van|909|Agricultural Products
+REF66806|Jacksonville, FL|San Diego, CA|Dry Van|1101|Automotive Parts
+REF98631|New York, NY|Austin, TX|Flatbed|1169|Industrial Equipment
+REF75193|Dallas, TX|Los Angeles, CA|Flatbed|1787|Automotive Parts
+REF79805|Fort Worth, TX|Philadelphia, PA|Refrigerated|1507|Agricultural Products
+REF84810|Phoenix, AZ|Fort Worth, TX|Refrigerated|1484|Furniture
+REF86444|Jacksonville, FL|Austin, TX|Dry Van|1334|Industrial Equipment
+REF17552|Denver, CO|Fort Worth, TX|Flatbed|784|Industrial Equipment
+REF55330|Seattle, WA|Denver, CO|Dry Van|1537|Furniture
+REF51055|San Francisco, CA|Phoenix, AZ|Flatbed|1223|Agricultural Products
+REF23976|Phoenix, AZ|Denver, CO|Dry Van|1590|Automotive Parts
+REF28798|Houston, TX|Phoenix, AZ|Refrigerated|1496|Furniture
+REF39030|San Francisco, CA|Columbus, OH|Flatbed|873|Automotive Parts
+REF33343|San Jose, CA|Seattle, WA|Flatbed|1805|Furniture
+REF56855|Dallas, TX|Phoenix, AZ|Dry Van|1728|Electronics
+REF18492|San Diego, CA|Columbus, OH|Flatbed|663|Industrial Equipment
+REF55814|Fort Worth, TX|San Diego, CA|Flatbed|1035|Furniture
+REF87944|San Francisco, CA|Columbus, OH|Flatbed|1104|Electronics
+REF13186|Charlotte, NC|Indianapolis, IN|Flatbed|857|Electronics
+REF81856|San Francisco, CA|Fort Worth, TX|Refrigerated|1900|Industrial Equipment
+REF22042|New York, NY|Philadelphia, PA|Dry Van|1861|Electronics
+REF17505|Austin, TX|San Antonio, TX|Dry Van|1526|Furniture
+REF82190|Seattle, WA|San Jose, CA|Refrigerated|888|Electronics
+REF42437|Washington, DC|Philadelphia, PA|Dry Van|1609|Furniture
+REF29805|Dallas, TX|Philadelphia, PA|Dry Van|997|Industrial Equipment
+REF71582|San Diego, CA|Seattle, WA|Refrigerated|866|Furniture
+REF37898|Phoenix, AZ|San Antonio, TX|Dry Van|1750|Automotive Parts
+REF75965|Dallas, TX|Columbus, OH|Refrigerated|1873|Automotive Parts
+REF53213|Fort Worth, TX|Austin, TX|Dry Van|1016|Furniture
+REF31547|Chicago, IL|Charlotte, NC|Flatbed|1846|Automotive Parts
+REF56916|Phoenix, AZ|Los Angeles, CA|Flatbed|1937|Industrial Equipment
+REF93515|Phoenix, AZ|San Antonio, TX|Dry Van|1760|Furniture
+REF69209|San Jose, CA|Fort Worth, TX|Dry Van|733|Furniture
+REF56045|San Antonio, TX|San Jose, CA|Flatbed|1092|Electronics
+REF25413|San Francisco, CA|Washington, DC|Dry Van|604|Electronics
+REF79676|Washington, DC|Austin, TX|Refrigerated|1155|Electronics
+REF28245|Denver, CO|Charlotte, NC|Dry Van|1585|Agricultural Products
+REF30990|Chicago, IL|Houston, TX|Flatbed|1543|Agricultural Products
+REF66561|Jacksonville, FL|Chicago, IL|Dry Van|1910|Furniture
+REF18281|Houston, TX|San Diego, CA|Refrigerated|1623|Industrial Equipment
+REF28729|Austin, TX|San Jose, CA|Refrigerated|1810|Industrial Equipment
+REF81767|Washington, DC|Chicago, IL|Dry Van|1281|Agricultural Products
+REF94725|San Francisco, CA|San Diego, CA|Refrigerated|989|Electronics
+REF52542|Seattle, WA|Houston, TX|Flatbed|778|Agricultural Products
+REF25397|Austin, TX|Seattle, WA|Flatbed|570|Industrial Equipment
+REF53577|New York, NY|Columbus, OH|Flatbed|1192|Industrial Equipment
+REF89827|Seattle, WA|Columbus, OH|Dry Van|913|Agricultural Products
+REF29568|San Diego, CA|Los Angeles, CA|Refrigerated|539|Industrial Equipment
+REF34300|San Antonio, TX|Fort Worth, TX|Dry Van|1332|Furniture
+REF13684|Fort Worth, TX|Denver, CO|Flatbed|814|Electronics
+REF86553|Columbus, OH|Austin, TX|Dry Van|1699|Automotive Parts
+REF42401|Houston, TX|Charlotte, NC|Refrigerated|1945|Automotive Parts
+REF34812|Washington, DC|Philadelphia, PA|Flatbed|806|Agricultural Products
+REF85536|New York, NY|Austin, TX|Refrigerated|1468|Automotive Parts
+REF41066|San Antonio, TX|Los Angeles, CA|Flatbed|1673|Industrial Equipment
+REF39079|Charlotte, NC|Phoenix, AZ|Refrigerated|1888|Automotive Parts
+REF92113|New York, NY|Austin, TX|Flatbed|810|Agricultural Products
+REF31285|Dallas, TX|Seattle, WA|Refrigerated|1491|Industrial Equipment
+REF65908|Denver, CO|San Jose, CA|Flatbed|769|Furniture
+REF23819|Fort Worth, TX|Austin, TX|Refrigerated|1923|Furniture
+REF81584|Fort Worth, TX|Chicago, IL|Dry Van|718|Electronics
+REF60482|Austin, TX|Denver, CO|Refrigerated|1034|Electronics
+REF54022|Los Angeles, CA|Austin, TX|Dry Van|796|Automotive Parts
+REF43562|Indianapolis, IN|Phoenix, AZ|Flatbed|1623|Furniture
+REF49234|Seattle, WA|Washington, DC|Dry Van|748|Agricultural Products
+REF35529|San Francisco, CA|San Diego, CA|Dry Van|510|Electronics
+REF14976|Los Angeles, CA|Charlotte, NC|Flatbed|1814|Automotive Parts
+REF81732|Columbus, OH|New York, NY|Flatbed|1597|Electronics
+REF64166|Chicago, IL|Denver, CO|Refrigerated|1869|Furniture
+REF78506|Austin, TX|Indianapolis, IN|Refrigerated|1898|Automotive Parts
+REF93843|Austin, TX|Jacksonville, FL|Flatbed|1080|Agricultural Products
+REF28926|Phoenix, AZ|Jacksonville, FL|Dry Van|1165|Automotive Parts
+REF71023|Chicago, IL|Denver, CO|Refrigerated|1536|Industrial Equipment
+REF48838|San Antonio, TX|Washington, DC|Flatbed|1298|Automotive Parts
+REF25432|San Jose, CA|San Francisco, CA|Dry Van|1729|Furniture
+REF29229|Indianapolis, IN|Fort Worth, TX|Dry Van|1520|Agricultural Products
+REF15059|San Diego, CA|Houston, TX|Dry Van|1075|Industrial Equipment
+REF46962|Phoenix, AZ|Denver, CO|Refrigerated|1386|Furniture
+REF43473|Washington, DC|Seattle, WA|Dry Van|1273|Agricultural Products
+REF69242|Jacksonville, FL|Denver, CO|Flatbed|1928|Automotive Parts
+REF74138|Indianapolis, IN|Washington, DC|Flatbed|948|Automotive Parts
+REF65964|San Antonio, TX|Houston, TX|Dry Van|1682|Furniture
+REF69752|Houston, TX|Austin, TX|Refrigerated|1459|Electronics
+REF66841|New York, NY|Phoenix, AZ|Flatbed|1107|Electronics
+REF62447|Los Angeles, CA|Denver, CO|Flatbed|1405|Industrial Equipment
+REF80436|San Francisco, CA|Fort Worth, TX|Flatbed|1883|Electronics
+REF30742|San Diego, CA|Phoenix, AZ|Refrigerated|770|Electronics
+REF61004|Chicago, IL|Los Angeles, CA|Refrigerated|1150|Automotive Parts
+REF35102|Los Angeles, CA|Columbus, OH|Refrigerated|1781|Furniture
+REF62952|San Antonio, TX|San Jose, CA|Refrigerated|850|Agricultural Products
+REF88213|San Francisco, CA|Denver, CO|Flatbed|1399|Industrial Equipment
+REF41232|Charlotte, NC|San Jose, CA|Flatbed|1052|Agricultural Products
+REF43875|Phoenix, AZ|Houston, TX|Flatbed|1618|Furniture
+REF36713|San Francisco, CA|Columbus, OH|Dry Van|1439|Automotive Parts
+REF46857|Jacksonville, FL|Fort Worth, TX|Dry Van|1882|Industrial Equipment
+REF51147|Indianapolis, IN|New York, NY|Refrigerated|1259|Furniture
+REF24203|Jacksonville, FL|Seattle, WA|Refrigerated|1583|Agricultural Products
+REF90645|Columbus, OH|Jacksonville, FL|Refrigerated|1856|Electronics
+REF29920|Austin, TX|Phoenix, AZ|Dry Van|1917|Agricultural Products
+REF66101|Houston, TX|Los Angeles, CA|Flatbed|767|Agricultural Products
+REF20584|Indianapolis, IN|San Jose, CA|Refrigerated|1547|Automotive Parts
+REF98137|Charlotte, NC|Denver, CO|Flatbed|1594|Furniture
+REF40688|Chicago, IL|Dallas, TX|Dry Van|721|Automotive Parts
+REF95255|Chicago, IL|New York, NY|Flatbed|1764|Furniture
+REF20698|Philadelphia, PA|Los Angeles, CA|Dry Van|1956|Furniture
+REF89921|San Antonio, TX|Seattle, WA|Flatbed|1889|Electronics
+REF10423|San Antonio, TX|Washington, DC|Refrigerated|722|Automotive Parts
+REF87153|Philadelphia, PA|Seattle, WA|Dry Van|778|Industrial Equipment
+REF50055|Indianapolis, IN|Washington, DC|Flatbed|667|Furniture
+REF61981|Chicago, IL|Seattle, WA|Refrigerated|1228|Agricultural Products
+REF96144|Los Angeles, CA|Fort Worth, TX|Refrigerated|1977|Furniture
+REF28443|New York, NY|Jacksonville, FL|Flatbed|1875|Automotive Parts
+REF31873|Chicago, IL|Philadelphia, PA|Dry Van|755|Furniture
+REF54649|Seattle, WA|Denver, CO|Dry Van|540|Agricultural Products
+REF34696|Austin, TX|Houston, TX|Flatbed|1727|Electronics
+REF26985|Seattle, WA|Fort Worth, TX|Refrigerated|1811|Automotive Parts
+REF60126|San Diego, CA|Indianapolis, IN|Flatbed|688|Industrial Equipment
+REF31236|Phoenix, AZ|San Francisco, CA|Flatbed|748|Electronics
+REF79481|Washington, DC|Jacksonville, FL|Flatbed|1107|Automotive Parts
+REF16055|Austin, TX|Denver, CO|Refrigerated|1821|Agricultural Products
+REF74450|Dallas, TX|Austin, TX|Refrigerated|1919|Furniture
+REF30076|Seattle, WA|Houston, TX|Refrigerated|711|Furniture
+REF19611|Fort Worth, TX|Denver, CO|Refrigerated|1096|Industrial Equipment
+REF80801|New York, NY|San Jose, CA|Dry Van|1170|Electronics
+REF57810|Fort Worth, TX|Dallas, TX|Flatbed|1027|Furniture
+REF69260|Phoenix, AZ|Austin, TX|Refrigerated|942|Furniture
+REF50963|San Antonio, TX|Fort Worth, TX|Flatbed|1480|Electronics
+REF38624|Washington, DC|Seattle, WA|Refrigerated|961|Electronics
+REF82899|Dallas, TX|Fort Worth, TX|Refrigerated|1562|Furniture
+REF79331|Denver, CO|San Jose, CA|Refrigerated|1485|Automotive Parts
+REF44190|San Diego, CA|Dallas, TX|Dry Van|1622|Electronics
+REF20768|Columbus, OH|Austin, TX|Refrigerated|590|Electronics
+REF43218|San Antonio, TX|Houston, TX|Dry Van|818|Automotive Parts
+REF62939|San Francisco, CA|Columbus, OH|Flatbed|659|Electronics
+REF13986|San Antonio, TX|Fort Worth, TX|Dry Van|1747|Agricultural Products
+REF38502|Dallas, TX|Fort Worth, TX|Refrigerated|1415|Industrial Equipment
+REF91480|Los Angeles, CA|Austin, TX|Dry Van|887|Automotive Parts
+REF10090|Philadelphia, PA|Los Angeles, CA|Refrigerated|814|Electronics
+REF31031|Denver, CO|Fort Worth, TX|Dry Van|1722|Industrial Equipment
+REF96030|Fort Worth, TX|Dallas, TX|Flatbed|1567|Agricultural Products
+REF97645|Denver, CO|New York, NY|Flatbed|1394|Industrial Equipment
+REF65716|Dallas, TX|Charlotte, NC|Flatbed|572|Electronics
+REF54354|Philadelphia, PA|Seattle, WA|Flatbed|1679|Automotive Parts
+REF59553|San Jose, CA|Seattle, WA|Refrigerated|1142|Industrial Equipment
+REF82564|Los Angeles, CA|Seattle, WA|Flatbed|750|Electronics
+REF63695|Chicago, IL|Washington, DC|Flatbed|1681|Industrial Equipment
+REF32848|Phoenix, AZ|Jacksonville, FL|Flatbed|706|Agricultural Products
+REF72898|Columbus, OH|Fort Worth, TX|Refrigerated|1566|Agricultural Products
+REF52170|Houston, TX|Philadelphia, PA|Dry Van|620|Industrial Equipment
+REF44901|New York, NY|Phoenix, AZ|Dry Van|1346|Agricultural Products
+REF16371|Fort Worth, TX|San Diego, CA|Flatbed|757|Electronics
+REF78630|Houston, TX|Chicago, IL|Refrigerated|692|Furniture
+REF12049|Phoenix, AZ|Philadelphia, PA|Refrigerated|1176|Furniture
+REF54217|Dallas, TX|Los Angeles, CA|Flatbed|1656|Furniture
+REF90616|Seattle, WA|Philadelphia, PA|Dry Van|1328|Agricultural Products
+REF33515|Los Angeles, CA|Austin, TX|Flatbed|677|Industrial Equipment
+REF55089|Austin, TX|Fort Worth, TX|Dry Van|1268|Industrial Equipment
+REF32235|Indianapolis, IN|Philadelphia, PA|Dry Van|1043|Automotive Parts
+REF86420|Charlotte, NC|Dallas, TX|Dry Van|1337|Agricultural Products
+REF91937|Los Angeles, CA|Indianapolis, IN|Flatbed|1843|Furniture
+REF28273|Houston, TX|Denver, CO|Flatbed|1390|Electronics
+REF62908|Los Angeles, CA|San Antonio, TX|Refrigerated|1648|Industrial Equipment
+REF73700|New York, NY|Seattle, WA|Flatbed|1935|Industrial Equipment
+REF19915|New York, NY|Dallas, TX|Flatbed|1524|Industrial Equipment
+REF30494|Los Angeles, CA|Seattle, WA|Dry Van|1539|Furniture
+REF32912|San Diego, CA|San Francisco, CA|Flatbed|823|Agricultural Products
+REF36108|Houston, TX|San Antonio, TX|Refrigerated|1409|Automotive Parts
+REF49221|Chicago, IL|San Diego, CA|Refrigerated|1699|Industrial Equipment
+REF81967|Washington, DC|Jacksonville, FL|Refrigerated|1161|Electronics
+REF51167|San Antonio, TX|Los Angeles, CA|Refrigerated|1405|Furniture
+REF99868|Philadelphia, PA|San Francisco, CA|Refrigerated|1017|Automotive Parts
+REF62668|Indianapolis, IN|Jacksonville, FL|Flatbed|584|Industrial Equipment
+REF39274|Indianapolis, IN|San Diego, CA|Dry Van|1942|Agricultural Products
+REF61446|Columbus, OH|Fort Worth, TX|Refrigerated|1082|Agricultural Products
+REF24431|San Francisco, CA|Denver, CO|Flatbed|1631|Electronics
+REF94604|Jacksonville, FL|San Antonio, TX|Flatbed|1877|Furniture
+REF12425|Phoenix, AZ|Denver, CO|Flatbed|1753|Automotive Parts
+REF96583|Houston, TX|Fort Worth, TX|Flatbed|602|Automotive Parts
+REF78020|Seattle, WA|San Francisco, CA|Refrigerated|837|Automotive Parts
+REF92228|New York, NY|Seattle, WA|Flatbed|1488|Electronics
+REF99716|Austin, TX|Denver, CO|Flatbed|1872|Electronics
+REF46576|Jacksonville, FL|Denver, CO|Flatbed|968|Agricultural Products
+REF84037|Houston, TX|Dallas, TX|Refrigerated|1694|Automotive Parts
+REF70446|Philadelphia, PA|San Francisco, CA|Dry Van|1873|Industrial Equipment
+REF55334|Austin, TX|Chicago, IL|Refrigerated|1100|Furniture
+REF56572|Charlotte, NC|Philadelphia, PA|Dry Van|1120|Agricultural Products
+REF34515|Seattle, WA|San Diego, CA|Refrigerated|666|Agricultural Products
+REF70662|Seattle, WA|Phoenix, AZ|Flatbed|1523|Automotive Parts
+REF32148|Columbus, OH|San Diego, CA|Refrigerated|1174|Industrial Equipment
+REF49567|Dallas, TX|San Antonio, TX|Flatbed|569|Industrial Equipment
+REF20683|San Diego, CA|Washington, DC|Dry Van|1858|Agricultural Products
+REF88943|Dallas, TX|Denver, CO|Refrigerated|600|Agricultural Products
+REF52494|Washington, DC|Seattle, WA|Flatbed|1232|Furniture
+REF25700|Los Angeles, CA|Austin, TX|Dry Van|1208|Electronics
+REF96801|Dallas, TX|Jacksonville, FL|Dry Van|1361|Industrial Equipment
+REF98544|Seattle, WA|San Antonio, TX|Flatbed|1660|Automotive Parts
+REF59275|Jacksonville, FL|San Francisco, CA|Flatbed|533|Agricultural Products
+REF64842|San Francisco, CA|Fort Worth, TX|Flatbed|628|Industrial Equipment
+REF70519|Chicago, IL|San Jose, CA|Refrigerated|1478|Agricultural Products
+REF25137|Phoenix, AZ|Charlotte, NC|Flatbed|816|Electronics
+REF48777|Dallas, TX|Philadelphia, PA|Dry Van|844|Automotive Parts
+REF90901|Los Angeles, CA|San Francisco, CA|Flatbed|1270|Furniture
+REF45740|Los Angeles, CA|San Francisco, CA|Dry Van|593|Agricultural Products
+REF23579|New York, NY|Charlotte, NC|Flatbed|1418|Automotive Parts
+REF56150|Washington, DC|Phoenix, AZ|Refrigerated|1938|Automotive Parts
+REF30367|Charlotte, NC|Jacksonville, FL|Refrigerated|1491|Electronics
+REF98080|Phoenix, AZ|San Jose, CA|Flatbed|1191|Agricultural Products
+REF90490|Phoenix, AZ|Chicago, IL|Refrigerated|1225|Electronics
+REF78294|Jacksonville, FL|Austin, TX|Flatbed|976|Industrial Equipment
+REF29172|Austin, TX|Denver, CO|Flatbed|1545|Electronics
+REF55689|Chicago, IL|Dallas, TX|Dry Van|1509|Agricultural Products
+REF14392|Austin, TX|San Diego, CA|Dry Van|1093|Automotive Parts
+REF93108|New York, NY|San Jose, CA|Dry Van|1895|Industrial Equipment
+REF80751|Chicago, IL|San Jose, CA|Flatbed|1006|Industrial Equipment
+REF61911|Dallas, TX|Phoenix, AZ|Dry Van|1114|Industrial Equipment
+REF51206|New York, NY|San Jose, CA|Flatbed|705|Electronics
+REF71921|Houston, TX|Washington, DC|Dry Van|1679|Automotive Parts
+REF83333|San Diego, CA|Philadelphia, PA|Flatbed|1093|Furniture
+REF48850|Houston, TX|Indianapolis, IN|Refrigerated|625|Agricultural Products
+REF77001|Fort Worth, TX|New York, NY|Flatbed|788|Industrial Equipment
+REF24945|Columbus, OH|Seattle, WA|Flatbed|1594|Agricultural Products
+REF43967|Austin, TX|Dallas, TX|Refrigerated|867|Electronics
+REF93276|Seattle, WA|Fort Worth, TX|Flatbed|735|Electronics
+REF85806|Indianapolis, IN|San Francisco, CA|Flatbed|827|Agricultural Products
+REF82863|Denver, CO|Phoenix, AZ|Flatbed|1337|Furniture
+REF68613|San Jose, CA|Seattle, WA|Refrigerated|1434|Furniture
+REF61066|San Francisco, CA|Philadelphia, PA|Dry Van|1665|Electronics
+REF18909|Chicago, IL|San Antonio, TX|Refrigerated|969|Furniture
+REF15015|Denver, CO|Los Angeles, CA|Dry Van|1477|Automotive Parts
+REF80481|New York, NY|Dallas, TX|Flatbed|1853|Industrial Equipment
+REF24512|Denver, CO|Indianapolis, IN|Dry Van|1827|Industrial Equipment
+REF33886|Phoenix, AZ|New York, NY|Flatbed|1095|Industrial Equipment
+REF19465|San Jose, CA|Fort Worth, TX|Flatbed|1405|Agricultural Products
+REF95470|Chicago, IL|Columbus, OH|Dry Van|1104|Automotive Parts
+REF18081|Philadelphia, PA|Indianapolis, IN|Refrigerated|1781|Industrial Equipment
+REF19800|Fort Worth, TX|Washington, DC|Dry Van|1030|Furniture
+REF24285|San Diego, CA|Washington, DC|Dry Van|1541|Furniture
+REF27709|Indianapolis, IN|Dallas, TX|Refrigerated|1467|Industrial Equipment
+REF95500|Chicago, IL|San Diego, CA|Dry Van|1859|Furniture
+REF74959|Columbus, OH|Los Angeles, CA|Refrigerated|1127|Agricultural Products
+REF18903|Austin, TX|Washington, DC|Dry Van|550|Industrial Equipment
+REF87434|Columbus, OH|Jacksonville, FL|Refrigerated|1823|Electronics
+REF18331|New York, NY|Indianapolis, IN|Refrigerated|980|Agricultural Products
+REF70528|San Jose, CA|Dallas, TX|Dry Van|1536|Furniture
+REF21774|Jacksonville, FL|San Antonio, TX|Refrigerated|612|Industrial Equipment
+REF58902|San Francisco, CA|Denver, CO|Refrigerated|1071|Agricultural Products
+REF91994|Fort Worth, TX|Philadelphia, PA|Dry Van|970|Furniture
+REF57318|San Antonio, TX|Houston, TX|Dry Van|1827|Industrial Equipment
+REF80201|Dallas, TX|Charlotte, NC|Dry Van|1392|Furniture
+REF48516|Dallas, TX|Chicago, IL|Refrigerated|1557|Agricultural Products
+REF39915|Phoenix, AZ|Houston, TX|Dry Van|1080|Industrial Equipment
+REF20349|Austin, TX|Denver, CO|Dry Van|884|Furniture
+REF26756|Austin, TX|Columbus, OH|Dry Van|1815|Furniture
+REF37771|San Francisco, CA|Austin, TX|Refrigerated|620|Automotive Parts
+REF21791|Columbus, OH|Dallas, TX|Refrigerated|1843|Electronics
+REF81239|Philadelphia, PA|Seattle, WA|Refrigerated|1295|Furniture
+REF90942|Austin, TX|Washington, DC|Flatbed|1542|Electronics
+REF31449|Columbus, OH|Philadelphia, PA|Dry Van|624|Agricultural Products
+REF27703|San Francisco, CA|Houston, TX|Flatbed|742|Furniture
+REF68710|San Antonio, TX|Jacksonville, FL|Refrigerated|1799|Furniture
+REF46345|San Antonio, TX|Jacksonville, FL|Flatbed|1467|Furniture
+REF53970|Los Angeles, CA|Indianapolis, IN|Dry Van|1489|Electronics
+REF91670|Philadelphia, PA|Chicago, IL|Refrigerated|987|Agricultural Products
+REF30044|Chicago, IL|Phoenix, AZ|Dry Van|1738|Industrial Equipment
+REF24189|Indianapolis, IN|Washington, DC|Flatbed|691|Furniture
+REF52516|Denver, CO|San Antonio, TX|Refrigerated|1890|Agricultural Products
+REF81896|Indianapolis, IN|Charlotte, NC|Refrigerated|1428|Furniture
+REF37890|Fort Worth, TX|San Diego, CA|Flatbed|996|Electronics
+REF26837|Seattle, WA|Dallas, TX|Refrigerated|1341|Furniture
+REF48632|Washington, DC|Jacksonville, FL|Dry Van|1678|Agricultural Products
+REF10062|Houston, TX|San Diego, CA|Flatbed|1756|Agricultural Products
+REF48505|Seattle, WA|Philadelphia, PA|Flatbed|1083|Electronics
+REF82452|San Antonio, TX|Seattle, WA|Dry Van|533|Agricultural Products
+REF73741|Phoenix, AZ|San Diego, CA|Dry Van|700|Automotive Parts
+REF78415|Chicago, IL|Seattle, WA|Flatbed|1645|Industrial Equipment
+REF28181|Dallas, TX|New York, NY|Dry Van|1183|Automotive Parts
+REF91746|Washington, DC|Columbus, OH|Refrigerated|653|Furniture
+REF20449|San Antonio, TX|Dallas, TX|Refrigerated|1505|Electronics
+REF54103|New York, NY|Charlotte, NC|Dry Van|758|Electronics
+REF40789|Chicago, IL|San Jose, CA|Refrigerated|1000|Electronics
+REF25603|Philadelphia, PA|Jacksonville, FL|Dry Van|1334|Electronics
+REF32049|Fort Worth, TX|Columbus, OH|Refrigerated|1191|Industrial Equipment
+REF93920|Los Angeles, CA|Seattle, WA|Flatbed|681|Electronics
+REF78771|San Diego, CA|Dallas, TX|Dry Van|674|Furniture
+REF65105|Chicago, IL|Fort Worth, TX|Refrigerated|770|Electronics
+REF64025|Jacksonville, FL|Houston, TX|Dry Van|1639|Agricultural Products
+REF35273|Los Angeles, CA|Denver, CO|Dry Van|1761|Electronics
+REF94339|San Antonio, TX|San Francisco, CA|Flatbed|1952|Automotive Parts
+REF51345|Jacksonville, FL|San Diego, CA|Flatbed|1723|Electronics
+REF52652|Indianapolis, IN|Seattle, WA|Dry Van|514|Agricultural Products
+REF82141|Austin, TX|New York, NY|Refrigerated|1634|Automotive Parts
+REF66111|New York, NY|San Francisco, CA|Refrigerated|837|Furniture
+REF33050|Jacksonville, FL|Indianapolis, IN|Dry Van|1114|Agricultural Products
+REF71298|Philadelphia, PA|San Francisco, CA|Refrigerated|947|Automotive Parts
+REF56982|Jacksonville, FL|Washington, DC|Refrigerated|1342|Electronics
+REF73678|Seattle, WA|Columbus, OH|Dry Van|1923|Industrial Equipment
+REF16486|Denver, CO|San Jose, CA|Refrigerated|1139|Automotive Parts
+REF36389|Indianapolis, IN|Washington, DC|Flatbed|551|Automotive Parts
+REF69721|Philadelphia, PA|San Jose, CA|Flatbed|1475|Agricultural Products
+REF80817|Los Angeles, CA|New York, NY|Refrigerated|569|Electronics
+REF29180|Philadelphia, PA|Indianapolis, IN|Dry Van|625|Industrial Equipment
+REF31276|Jacksonville, FL|Austin, TX|Refrigerated|1836|Industrial Equipment
+REF41960|Seattle, WA|Chicago, IL|Flatbed|1122|Electronics
+REF41271|Fort Worth, TX|Phoenix, AZ|Dry Van|1911|Automotive Parts
+REF22884|Denver, CO|San Francisco, CA|Flatbed|1435|Agricultural Products
+REF98811|Philadelphia, PA|Los Angeles, CA|Flatbed|797|Furniture
+REF87637|Columbus, OH|Washington, DC|Flatbed|566|Agricultural Products
+REF64396|San Jose, CA|Washington, DC|Flatbed|1852|Furniture
+REF40877|San Jose, CA|Jacksonville, FL|Refrigerated|782|Industrial Equipment
+REF99584|Fort Worth, TX|Indianapolis, IN|Dry Van|829|Electronics
+REF62835|Philadelphia, PA|Washington, DC|Flatbed|1180|Agricultural Products
+REF79971|Denver, CO|Indianapolis, IN|Refrigerated|1336|Automotive Parts
+REF95471|Chicago, IL|Houston, TX|Dry Van|667|Agricultural Products
+REF54942|Houston, TX|Charlotte, NC|Refrigerated|868|Furniture
+REF22015|Seattle, WA|Jacksonville, FL|Dry Van|1061|Agricultural Products
+REF80697|Indianapolis, IN|Washington, DC|Dry Van|1273|Electronics
+REF34959|San Jose, CA|Seattle, WA|Refrigerated|1226|Industrial Equipment
+REF41816|Chicago, IL|Denver, CO|Flatbed|1873|Industrial Equipment
+REF43937|San Antonio, TX|Jacksonville, FL|Dry Van|854|Electronics
+REF15338|Chicago, IL|Charlotte, NC|Dry Van|1034|Electronics
+REF34382|Houston, TX|Phoenix, AZ|Refrigerated|1287|Agricultural Products
+REF25702|Columbus, OH|Fort Worth, TX|Dry Van|880|Industrial Equipment
+REF43576|Phoenix, AZ|Charlotte, NC|Refrigerated|1450|Agricultural Products
+REF26236|Austin, TX|New York, NY|Dry Van|1958|Automotive Parts
+REF93634|Fort Worth, TX|San Jose, CA|Dry Van|1676|Industrial Equipment
+REF22538|New York, NY|Houston, TX|Dry Van|1207|Automotive Parts
+REF61574|Indianapolis, IN|Charlotte, NC|Refrigerated|1583|Industrial Equipment
+REF31316|Indianapolis, IN|Washington, DC|Flatbed|1065|Agricultural Products
+REF18449|Philadelphia, PA|Houston, TX|Refrigerated|1370|Agricultural Products
+REF65062|New York, NY|Denver, CO|Flatbed|912|Automotive Parts
+REF34741|Los Angeles, CA|Houston, TX|Refrigerated|1237|Electronics
+REF45075|San Diego, CA|Charlotte, NC|Refrigerated|1384|Automotive Parts
+REF85175|Indianapolis, IN|Dallas, TX|Refrigerated|567|Furniture
+REF16434|San Jose, CA|Denver, CO|Refrigerated|1055|Furniture
+REF15029|Dallas, TX|Seattle, WA|Dry Van|1774|Electronics
+REF45107|Columbus, OH|Washington, DC|Flatbed|1309|Industrial Equipment
+REF84090|Los Angeles, CA|Chicago, IL|Dry Van|924|Automotive Parts
+REF86051|Philadelphia, PA|Los Angeles, CA|Dry Van|1944|Industrial Equipment
+REF65393|Seattle, WA|San Jose, CA|Flatbed|1718|Agricultural Products
+REF24674|Seattle, WA|Philadelphia, PA|Refrigerated|1946|Industrial Equipment
+REF69016|Houston, TX|San Diego, CA|Refrigerated|738|Automotive Parts
+REF69951|San Jose, CA|Washington, DC|Dry Van|511|Automotive Parts
+REF57401|San Francisco, CA|Charlotte, NC|Dry Van|1277|Industrial Equipment
+REF76065|San Antonio, TX|Columbus, OH|Dry Van|1540|Agricultural Products
+REF76152|San Diego, CA|Charlotte, NC|Refrigerated|1061|Furniture
+REF51048|Austin, TX|Jacksonville, FL|Refrigerated|1002|Electronics
+REF85971|Phoenix, AZ|Jacksonville, FL|Flatbed|1106|Agricultural Products
+REF47858|New York, NY|San Francisco, CA|Flatbed|1507|Industrial Equipment
+REF68902|San Antonio, TX|Denver, CO|Flatbed|1371|Agricultural Products
+REF92696|Denver, CO|Chicago, IL|Dry Van|548|Agricultural Products
+REF21703|Jacksonville, FL|Charlotte, NC|Dry Van|590|Agricultural Products
+REF92752|Washington, DC|Chicago, IL|Dry Van|563|Agricultural Products
+REF84677|Los Angeles, CA|New York, NY|Flatbed|586|Industrial Equipment
+REF74351|Phoenix, AZ|Seattle, WA|Flatbed|1477|Industrial Equipment
+REF12815|San Jose, CA|Dallas, TX|Refrigerated|1386|Automotive Parts
+REF35769|Charlotte, NC|Dallas, TX|Flatbed|1060|Automotive Parts
+REF46788|Indianapolis, IN|Houston, TX|Flatbed|1095|Industrial Equipment
+REF93860|Charlotte, NC|Seattle, WA|Refrigerated|626|Furniture
+REF10563|San Jose, CA|New York, NY|Flatbed|824|Agricultural Products
+REF50985|Philadelphia, PA|Dallas, TX|Dry Van|730|Industrial Equipment
+REF52052|Los Angeles, CA|Charlotte, NC|Flatbed|1056|Electronics
+REF20161|Jacksonville, FL|Indianapolis, IN|Dry Van|1818|Furniture
+REF19149|Charlotte, NC|Chicago, IL|Dry Van|521|Agricultural Products
+REF48404|Philadelphia, PA|Indianapolis, IN|Dry Van|1062|Electronics
+REF55290|Philadelphia, PA|Jacksonville, FL|Flatbed|1574|Furniture
+REF46609|San Jose, CA|Chicago, IL|Dry Van|833|Furniture
+REF19143|Philadelphia, PA|San Antonio, TX|Flatbed|751|Industrial Equipment
+REF69664|New York, NY|Washington, DC|Refrigerated|1774|Electronics
+REF89714|New York, NY|Denver, CO|Refrigerated|1923|Electronics
+REF85626|Denver, CO|Seattle, WA|Dry Van|1683|Agricultural Products
+REF74414|Columbus, OH|Austin, TX|Refrigerated|798|Agricultural Products
+REF87357|Austin, TX|Los Angeles, CA|Flatbed|1877|Industrial Equipment
+REF32002|Charlotte, NC|San Francisco, CA|Dry Van|1976|Industrial Equipment
+REF60255|Indianapolis, IN|San Jose, CA|Refrigerated|1644|Agricultural Products
+REF47175|Dallas, TX|Columbus, OH|Refrigerated|1446|Industrial Equipment
+REF22683|New York, NY|Indianapolis, IN|Flatbed|915|Industrial Equipment
+REF10055|Charlotte, NC|Denver, CO|Dry Van|1923|Agricultural Products
+REF54955|Philadelphia, PA|New York, NY|Flatbed|1370|Electronics
+REF95407|Seattle, WA|Phoenix, AZ|Dry Van|1987|Automotive Parts
+REF68583|Seattle, WA|San Jose, CA|Refrigerated|589|Industrial Equipment
+REF41272|San Diego, CA|Phoenix, AZ|Dry Van|807|Industrial Equipment
+REF63817|Chicago, IL|San Francisco, CA|Dry Van|1080|Electronics
+REF18633|Fort Worth, TX|San Diego, CA|Dry Van|1566|Electronics
+REF40443|Houston, TX|Fort Worth, TX|Refrigerated|1801|Agricultural Products
+REF91409|Chicago, IL|Phoenix, AZ|Flatbed|796|Automotive Parts
+REF65773|Jacksonville, FL|Phoenix, AZ|Flatbed|1344|Automotive Parts
+REF16109|Columbus, OH|Houston, TX|Flatbed|1057|Automotive Parts
+REF17683|Fort Worth, TX|Seattle, WA|Flatbed|950|Industrial Equipment
+REF84485|Fort Worth, TX|San Francisco, CA|Dry Van|1072|Industrial Equipment
+REF80168|San Antonio, TX|Los Angeles, CA|Dry Van|1812|Automotive Parts
+REF83128|San Francisco, CA|San Antonio, TX|Flatbed|1932|Industrial Equipment
+REF93025|Philadelphia, PA|Austin, TX|Flatbed|1135|Electronics
+REF14395|Indianapolis, IN|Dallas, TX|Refrigerated|953|Electronics
+REF90902|Phoenix, AZ|Chicago, IL|Refrigerated|1796|Automotive Parts
+REF73703|Fort Worth, TX|Seattle, WA|Dry Van|986|Furniture
+REF27631|Columbus, OH|Denver, CO|Flatbed|1749|Industrial Equipment
+REF35216|San Jose, CA|Chicago, IL|Dry Van|1542|Electronics
+REF47525|Charlotte, NC|Chicago, IL|Flatbed|1596|Automotive Parts
+REF72393|Chicago, IL|New York, NY|Refrigerated|1834|Furniture
+REF21537|Charlotte, NC|Seattle, WA|Refrigerated|1581|Furniture
+REF73314|Seattle, WA|Austin, TX|Refrigerated|1130|Automotive Parts
+REF28056|Denver, CO|Phoenix, AZ|Flatbed|1122|Agricultural Products
+REF60308|Chicago, IL|Philadelphia, PA|Refrigerated|1488|Industrial Equipment
+REF11546|San Antonio, TX|Austin, TX|Dry Van|1711|Industrial Equipment
+REF20391|Los Angeles, CA|Indianapolis, IN|Flatbed|1009|Automotive Parts
+REF54642|Indianapolis, IN|Washington, DC|Dry Van|1950|Electronics
+REF54972|San Francisco, CA|Columbus, OH|Dry Van|692|Automotive Parts
+REF49063|Austin, TX|Columbus, OH|Dry Van|718|Electronics
+REF79828|San Francisco, CA|Columbus, OH|Flatbed|1456|Automotive Parts
+REF58041|San Antonio, TX|Phoenix, AZ|Flatbed|1355|Electronics
+REF78293|Los Angeles, CA|Phoenix, AZ|Dry Van|1747|Electronics
+REF86371|San Antonio, TX|Washington, DC|Dry Van|514|Automotive Parts
+REF87791|San Antonio, TX|New York, NY|Flatbed|1970|Agricultural Products

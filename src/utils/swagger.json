@@ -1,0 +1,349 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Logistics API",
+        "description": "API for retrieving carrier and load information",
+        "version": "1.0.0",
+        "contact": {
+            "name": "API Support",
+            "email": "support@example.com"
+        }
+    },
+    "tags": [
+        {
+            "name": "Carriers",
+            "description": "Operations related to carriers"
+        },
+        {
+            "name": "Loads",
+            "description": "Operations related to loads"
+        }
+    ],
+    "servers": [
+        {
+            "url": "/api/v1"
+        }
+    ],
+    "security": [
+        {
+            "apiKey": []
+        }
+    ],
+    "paths": {
+        "/carriers": {
+            "get": {
+                "tags": [
+                    "Carriers"
+                ],
+                "summary": "Get carrier information",
+                "description": "Returns carrier details based on MC or DOT number",
+                "security": [
+                    {
+                        "apiKey": []
+                    }
+                ],
+                "parameters": [
+                    {
+                        "name": "mc",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        },
+                        "description": "Motor Carrier (MC) number"
+                    },
+                    {
+                        "name": "dot",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        },
+                        "description": "Department of Transportation (DOT) number"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Carrier found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/CarrierResponse"
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad request - Missing required parameters",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/ErrorResponse"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "Carrier not found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/ErrorResponse"
+                                }
+                            }
+                        }
+                    },
+                    "500": {
+                        "description": "Internal server error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/ErrorResponse"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/loads": {
+            "get": {
+                "tags": [
+                    "Loads"
+                ],
+                "summary": "Get load information",
+                "description": "Returns load details based on various filter criteria",
+                "parameters": [
+                    {
+                        "name": "reference_number",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        },
+                        "description": "Filter by reference number"
+                    },
+                    {
+                        "name": "origin",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        },
+                        "description": "Filter by origin city"
+                    },
+                    {
+                        "name": "destination",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        },
+                        "description": "Filter by destination city"
+                    },
+                    {
+                        "name": "equipment_type",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        },
+                        "description": "Filter by equipment type name"
+                    },
+                    {
+                        "name": "rate",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "number"
+                        },
+                        "description": "Filter by rate"
+                    },
+                    {
+                        "name": "commodity",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        },
+                        "description": "Filter by commodity name"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Loads found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/LoadsResponse"
+                                }
+                            }
+                        }
+                    },
+                    "404": {
+                        "description": "No loads found",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/ErrorResponse"
+                                }
+                            }
+                        }
+                    },
+                    "500": {
+                        "description": "Internal server error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/ErrorResponse"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "securitySchemes": {
+            "apiKey": {
+                "type": "http",
+                "scheme": "bearer",
+                "bearerFormat": "API Key",
+                "description": "Enter your API key in the format **Bearer {api_key}**"
+            }
+        },
+        "schemas": {
+            "Carrier": {
+                "type": "object",
+                "properties": {
+                    "legalName": {
+                        "type": "string",
+                        "description": "Legal name of the carrier"
+                    },
+                    "dbaName": {
+                        "type": "string",
+                        "description": "Doing Business As name of the carrier"
+                    },
+                    "dotNumber": {
+                        "type": "string",
+                        "description": "DOT number of the carrier"
+                    },
+                    "mcNumber": {
+                        "type": "string",
+                        "description": "MC number of the carrier"
+                    },
+                    "powerUnits": {
+                        "type": "number",
+                        "description": "Number of power units operated by the carrier"
+                    },
+                    "drivers": {
+                        "type": "number",
+                        "description": "Number of drivers employed by the carrier"
+                    },
+                    "entityType": {
+                        "type": "string",
+                        "description": "Type of business entity"
+                    },
+                    "operatingStatus": {
+                        "type": "string",
+                        "description": "Current operating status of the carrier"
+                    },
+                    "phoneNumber": {
+                        "type": "string",
+                        "description": "Contact phone number of the carrier"
+                    },
+                    "physicalAddress": {
+                        "type": "object",
+                        "properties": {
+                            "street": {
+                                "type": "string"
+                            },
+                            "city": {
+                                "type": "string"
+                            },
+                            "state": {
+                                "type": "string"
+                            },
+                            "zipCode": {
+                                "type": "string"
+                            },
+                            "country": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            },
+            "Load": {
+                "type": "object",
+                "properties": {
+                    "reference_number": {
+                        "type": "string",
+                        "description": "Unique identifier for the load"
+                    },
+                    "origin": {
+                        "type": "string",
+                        "description": "Origin location of the load"
+                    },
+                    "destination": {
+                        "type": "string",
+                        "description": "Destination location of the load"
+                    },
+                    "equipment_type": {
+                        "type": "string",
+                        "description": "Type of equipment required for the load"
+                    },
+                    "rate": {
+                        "type": "number",
+                        "description": "Rate associated with the load"
+                    },
+                    "commodity": {
+                        "type": "string",
+                        "description": "Type of commodity being transported"
+                    }
+                }
+            },
+            "CarrierResponse": {
+                "type": "object",
+                "properties": {
+                    "status": {
+                        "type": "number",
+                        "example": 200
+                    },
+                    "carrier": {
+                        "$ref": "#/components/schemas/Carrier"
+                    }
+                }
+            },
+            "LoadsResponse": {
+                "type": "object",
+                "properties": {
+                    "status": {
+                        "type": "number",
+                        "example": 200
+                    },
+                    "loads": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/Load"
+                        }
+                    }
+                }
+            },
+            "ErrorResponse": {
+                "type": "object",
+                "properties": {
+                    "status": {
+                        "type": "number",
+                        "example": 404
+                    },
+                    "error": {
+                        "type": "string",
+                        "example": "Resource not found"
+                    }
+                }
+            }
+        }
+    }
+}
