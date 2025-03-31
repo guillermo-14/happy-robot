@@ -3,7 +3,7 @@
 ## Notes
 > [!IMPORTANT]
 > I made a slightly different API decision besides the one in the original challenge. I wasn't able to configurate the HappyRobot platform to send a custom path param. As you can see on the image, it's only available to send custom query params. So I decided to use a different approach to reach the same result. That's why the endpoint is different from the one in the original challenge.
-![path-params-not-allowed](public/path-params-not-allowed.png.png)
+![path-params-not-allowed](public/path-params-not-allowed.png)
 
 ## Demos
 
